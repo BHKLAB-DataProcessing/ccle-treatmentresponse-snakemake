@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.2.0...v0.3.0) (2025-05-21)
+
+
+### Features
+
+* Add Apptainer dependency and update Snakefile with container specifications ([d63092f](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/d63092fd8b0dad097b93b32a60fdf521d451cc84))
+* allow for workflow dispatch ([16d5068](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/16d506868862baa6fc15fb2896ded1793983a9ea))
+
+
+### Bug Fixes
+
+* update build action ([43733ad](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/43733adb5f8a1cbce209fc06ff791b17b66fe5d6))
+
 ## [0.2.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.1.0...v0.2.0) (2025-05-21)
 
 
