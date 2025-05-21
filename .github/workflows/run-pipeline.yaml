@@ -30,7 +30,7 @@ jobs:
           pixi run pipeline
 
       - name: Upload assets
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: CCLE-TreatmentResponseExperiment
           path: data/results/treatmentResponseExperiment.RDS
