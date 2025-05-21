@@ -23,6 +23,10 @@
 This work splits up the CCLE pipeline to focus only on the drug response data.
 The old pipeline can be found here [BHKLAB-DataProcessing/CCLE-Pharmacoset_Snakemake](https://github.com/BHKLAB-DataProcessing/CCLE-Pharmacoset_Snakemake)
 
+## TODO
+
+- [ ] configure containers for the R packages
+
 ## Set Up
 
 ### Prerequisites
