@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.4.0...v0.5.0) (2025-05-21)
+
+
+### Features
+
+* move docker stuff to release ([fa856a6](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/fa856a6d55965b9649b30c5a68af72efb42f32cc))
+
 ## [0.4.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.3.2...v0.4.0) (2025-05-21)
 
 
