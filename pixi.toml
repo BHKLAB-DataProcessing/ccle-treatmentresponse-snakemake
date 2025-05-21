@@ -40,7 +40,7 @@ snakemake = "*"
 snakemake-storage-plugin-http = "*"
 
 [feature.snakemake.tasks]
-pipeline = { cmd = "snakemake --cores all --use-apptainer --apptainer-args no-home --apptainer-args containall --apptainer-args cleanenv", description = "Run snakemake pipeline" }
+pipeline = { cmd = "snakemake --cores all --use-apptainer", description = "Run snakemake pipeline" }
 
 ############################################## QUALITY ###############################################
 # Quality includes linting, type checking, and formatting
