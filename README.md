@@ -18,6 +18,11 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake?style=flat-square)
 
+## General Information
+
+This work splits up the CCLE pipeline to focus only on the drug response data.
+The old pipeline can be found here [BHKLAB-DataProcessing/CCLE-Pharmacoset_Snakemake](https://github.com/BHKLAB-DataProcessing/CCLE-Pharmacoset_Snakemake)
+
 ## Set Up
 
 ### Prerequisites
@@ -37,4 +42,4 @@ pixi install
 
 ## Documentation
 
-Click [here](https://BHKLAB-DataProcessing.github.io/ccle-treatmentresponse-snakemake) to view the full documentation.
+Click [here](https://BHKLAB-DataProcessing.github.io/ccle-treatmentresponse-snakemake) to view the full documentation

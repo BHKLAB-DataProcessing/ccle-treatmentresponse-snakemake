@@ -1,0 +1,16 @@
+from damply import dirs as dmpdirs
+
+print(dmpdirs)
+
+storage:
+    provider="http"
+
+rule all:
+    input:
+        storage.http("https://data.broadinstitute.org/ccle/Cell_lines_annotations_20181226.txt")
+    output:
+        results = dmpdirs.METADATA / "results.txt"
+    shell:
+        """
+        cat {input} > {output}
+        """
