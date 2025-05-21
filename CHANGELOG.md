@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.1](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.3.0...v0.3.1) (2025-05-21)
+
+
+### Bug Fixes
+
+* make github container package public ([60f6b43](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/60f6b43ae49f9412619f65b49d6750cd31b00a32))
+* update docker-publish workflow to trigger on releases instead of tags ([dee21dc](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/dee21dc45faa7f95291516055cf5d919cfea2b4b))
+
 ## [0.3.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.2.0...v0.3.0) (2025-05-21)
 
 
