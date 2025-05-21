@@ -43,6 +43,8 @@ rule preprocessTreatmentResponse:
     output:
         preprocessed_raw = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_raw.csv",
         preprocessed_profiles = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_profiles.csv",
+    container:
+        CONTAINER
     log:
         dmpdirs.LOGS / "preprocessTreatmentResponse.log",
     script:
