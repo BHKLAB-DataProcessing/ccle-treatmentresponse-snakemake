@@ -50,19 +50,33 @@
               <ul class="current">
                 <li class="toctree-l1 current"><a class="reference internal current" href="#">Data Sources</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#how-to-document-your-data">How to Document Your Data</a>
+    <li class="toctree-l2"><a class="reference internal" href="#cancer-cell-line-encyclopedia-ccle-dataset">Cancer Cell Line Encyclopedia (CCLE) Dataset</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#1-external-data-sources">1. External Data Sources</a>
+    <li class="toctree-l3"><a class="reference internal" href="#overview">Overview</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#2-internalgenerated-data">2. Internal/Generated Data</a>
+    <li class="toctree-l3"><a class="reference internal" href="#external-data-sources">External Data Sources</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#cell-line-annotations">Cell Line Annotations</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#3-data-dictionary">3. Data Dictionary</a>
+    <li class="toctree-l4"><a class="reference internal" href="#treatment-annotation">Treatment Annotation</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#drug-response-data">Drug Response Data</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#best-practices">Best Practices</a>
+    <li class="toctree-l3"><a class="reference internal" href="#processed-data">Processed Data</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sample-metadata-samplemetadatatsv">Sample Metadata (sampleMetadata.tsv)</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#treatment-metadata-treatmentmetadatatsv">Treatment Metadata (treatmentMetadata.tsv)</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#treatment-response-profiles">Treatment Response: Profiles</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#treatment-response-raw">Treatment Response: Raw</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
     </li>
     </ul>
                 </li>
@@ -96,95 +110,260 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="data-sources">Data Sources</h1>
-<h2 id="overview">Overview</h2>
-<p>This section should document all data sources used in your project.
-Proper documentation ensures reproducibility and helps others
-understand your research methodology.</p>
-<h2 id="how-to-document-your-data">How to Document Your Data</h2>
-<p>For each data source, include the following information:</p>
-<h3 id="1-external-data-sources">1. External Data Sources</h3>
+<h2 id="cancer-cell-line-encyclopedia-ccle-dataset">Cancer Cell Line Encyclopedia (CCLE) Dataset</h2>
+<h3 id="overview">Overview</h3>
+<p>The Cancer Cell Line Encyclopedia (CCLE) is a comprehensive resource containing genomic and pharmacological profiles of human cancer cell lines. This project focuses specifically on the treatment response data from CCLE, which includes drug sensitivity measurements across multiple cancer cell lines.</p>
+<h3 id="external-data-sources">External Data Sources</h3>
+<h4 id="cell-line-annotations">Cell Line Annotations</h4>
 <ul>
-<li><strong>Name</strong>: Official name of the dataset</li>
-<li><strong>Version/Date</strong>: Version number or access date</li>
-<li><strong>URL</strong>: Link to the data source</li>
-<li><strong>Access Method</strong>: How the data was obtained (direct download, API, etc.)</li>
-<li><strong>Access Date</strong>: When the data was accessed/retrieved</li>
-<li><strong>Data Format</strong>: Format of the data (FASTQ, DICOM, CSV, etc.)</li>
-<li><strong>Citation</strong>: Proper academic citation if applicable</li>
-<li><strong>License</strong>: Usage restrictions and attribution requirements</li>
+<li><strong>Name</strong>: CCLE Cell Line Annotations</li>
+<li><strong>Version/Date</strong>: December 26, 2018</li>
+<li><strong>URL</strong>: https://data.broadinstitute.org/ccle/Cell_lines_annotations_20181226.txt</li>
+<li><strong>Access Method</strong>: Direct download</li>
+<li><strong>Data Format</strong>: Tab-separated values (TSV) but saved as '.txt'</li>
+<li><strong>Citation</strong>: Barretina, J., Caponigro, G., Stransky, N., et al. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature, 483(7391), 603-607. https://doi.org/10.1038/nature11003</li>
+<li><strong>License</strong>: <a href="https://www.broadinstitute.org/terms-use">Broad Institute Terms of Use</a></li>
 </ul>
-<p>Example:</p>
-<pre><code class="language-markdown">## TCGA RNA-Seq Data
-
-- **Name**: The Cancer Genome Atlas RNA-Seq Data
-- **Version**: Data release 28.0 - March 2021
-- **URL**: https://portal.gdc.cancer.gov/
-- **Access Method**: GDC Data Transfer Tool
-- **Access Date**: 2021-03-15
-- **Citation**: The Cancer Genome Atlas Network. (2012). Comprehensive molecular portraits of human breast tumours. Nature, 490(7418), 61-70.
-- **License**: [NIH Genomic Data Sharing Policy](https://sharing.nih.gov/genomic-data-sharing-policy)
-</code></pre>
-<h3 id="2-internalgenerated-data">2. Internal/Generated Data</h3>
+<h4 id="treatment-annotation">Treatment Annotation</h4>
 <ul>
-<li><strong>Name</strong>: Descriptive name of the dataset</li>
-<li><strong>Creation Date</strong>: When the data was generated</li>
-<li><strong>Creation Method</strong>: Brief description of how the data was created</li>
-<li><strong>Input Data</strong>: What source data was used</li>
-<li><strong>Processing Scripts</strong>: References to scripts/Github Repo used to generate this data</li>
+<li><strong>Name</strong>: CCLE NP24.2009 Profiling</li>
+<li><strong>Version/Date</strong>: February 20, 2012</li>
+<li><strong>URL</strong>: https://data.broadinstitute.org/ccle_legacy_data/pharmacological_profiling/CCLE_NP24.2009_profiling_2012.02.20.csv</li>
+<li><strong>Access Method</strong>: Direct download</li>
+<li><strong>Data Format</strong>: Comma-separated values (CSV)</li>
+<li><strong>Citation</strong>: Same as cell line annotations</li>
+<li><strong>License</strong>: <a href="https://www.broadinstitute.org/terms-use">Broad Institute Terms of Use</a></li>
 </ul>
-<p>Example:</p>
-<pre><code class="language-markdown">## Processed RNA-Seq Data
-- **Name**: Processed RNA-Seq Data for TCGA-BRCA
-- **Creation Date**: 2021-04-01
-- **Creation Method**: Processed using kallisto and DESeq2
-- **Input Data**: FASTQ Data obtained from the SRA database
-- **Processing Scripts**: [GitHub Repo](https://github.com/tcga-brca-rnaseq)
-</code></pre>
-<h3 id="3-data-dictionary">3. Data Dictionary</h3>
-<p>For complex datasets, include a data dictionary that explains:</p>
+<h4 id="drug-response-data">Drug Response Data</h4>
+<ul>
+<li><strong>Name</strong>: CCLE NP24.2009 Drug Data</li>
+<li><strong>Version/Date</strong>: February 24, 2015</li>
+<li><strong>URL</strong>: https://data.broadinstitute.org/ccle_legacy_data/pharmacological_profiling/CCLE_NP24.2009_Drug_data_2015.02.24.csv</li>
+<li><strong>Access Method</strong>: Direct download</li>
+<li><strong>Data Format</strong>: Comma-separated values (CSV)</li>
+<li><strong>Citation</strong>: Same as cell line annotations</li>
+<li><strong>License</strong>: <a href="https://www.broadinstitute.org/terms-use">Broad Institute Terms of Use</a></li>
+</ul>
+<h3 id="processed-data">Processed Data</h3>
+<h3 id="sample-metadata-samplemetadatatsv">Sample Metadata (sampleMetadata.tsv)</h3>
+<ul>
+<li><strong>Name</strong>: Preprocessed Sample Metadata</li>
+<li><strong>Input Data</strong>: CCLE Cell Line Annotations</li>
+<li><strong>Processing Scripts</strong>: <code>workflow/scripts/R/preprocessMetadata.R</code></li>
+<li><strong>Output Location</strong>: <code>data/metadata/sampleMetadata.tsv</code></li>
+</ul>
 <table>
 <thead>
 <tr>
 <th>Column Name</th>
-<th>Data Type</th>
 <th>Description</th>
-<th>Units</th>
-<th>Possible Values</th>
+<th>Example Values</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>patient_id</td>
-<td>string</td>
-<td>Unique patient identifier</td>
-<td>N/A</td>
-<td>TCGA-XX-XXXX format</td>
+<td>CCLE.sampleid</td>
+<td>Unique identifier for the cell line</td>
+<td>DMS53_LUNG</td>
 </tr>
 <tr>
-<td>age</td>
-<td>integer</td>
-<td>Patient age at diagnosis</td>
-<td>years</td>
-<td>18-100</td>
+<td>CCLE.name</td>
+<td>Name of the cell line</td>
+<td>DMS 53</td>
 </tr>
 <tr>
-<td>expression</td>
-<td>float</td>
-<td>Gene expression value</td>
-<td>TPM</td>
-<td>Any positive value</td>
+<td>CCLE.depMapID</td>
+<td>DepMap identifier</td>
+<td>ACH-000698</td>
+</tr>
+<tr>
+<td>CCLE.site_Primary</td>
+<td>Primary site of origin</td>
+<td>lung, breast, kidney</td>
+</tr>
+<tr>
+<td>CCLE.site_Subtype1</td>
+<td>Subtype of the primary site</td>
+<td>colon, skin, NS (Not Specified)</td>
+</tr>
+<tr>
+<td>CCLE.histology</td>
+<td>Histological classification</td>
+<td>carcinoma, lymphoid_neoplasm</td>
+</tr>
+<tr>
+<td>CCLE.histology_Subtype1</td>
+<td>Subtype of histology</td>
+<td>small_cell_carcinoma, adenocarcinoma</td>
+</tr>
+<tr>
+<td>CCLE.gender</td>
+<td>Gender of the patient</td>
+<td>male, female</td>
+</tr>
+<tr>
+<td>CCLE.age</td>
+<td>Age of the patient</td>
+<td>54, 73, 7</td>
+</tr>
+<tr>
+<td>CCLE.race</td>
+<td>Race of the patient</td>
+<td>caucasian, african_american, asian</td>
+</tr>
+<tr>
+<td>CCLE.disease</td>
+<td>Associated disease</td>
+<td>lung_cancer, Burkitts lymphoma</td>
+</tr>
+<tr>
+<td>CCLE.type</td>
+<td>Cancer type</td>
+<td>lung_small_cell, colorectal, lymphoma_Burkitt</td>
 </tr>
 </tbody>
 </table>
-<h2 id="best-practices">Best Practices</h2>
+<h4 id="treatment-metadata-treatmentmetadatatsv">Treatment Metadata (treatmentMetadata.tsv)</h4>
 <ul>
-<li>Store raw data in <code>data/rawdata/</code> and never modify it</li>
-<li>Store processed data in <code>data/procdata/</code> and all code used to generate it should be in <code>workflow/scripts/</code></li>
-<li>Document all processing steps</li>
-<li>Track data provenance (where data came from and how it was modified)</li>
-<li>Respect data usage agreements and licenses!
-    This is especially important for data that should not be shared publicly</li>
+<li><strong>Name</strong>: Preprocessed Treatment Metadata</li>
+<li><strong>Input Data</strong>: CCLE NP24.2009 Profiling</li>
+<li><strong>Processing Scripts</strong>: <code>workflow/scripts/R/preprocessMetadata.R</code></li>
+<li><strong>Output Location</strong>: <code>data/metadata/treatmentMetadata.tsv</code></li>
 </ul>
+<table>
+<thead>
+<tr>
+<th>Column Name</th>
+<th>Description</th>
+<th>Example Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CCLE.raw_treatmentid</td>
+<td>Original treatment name</td>
+<td>Erlotinib, Lapatinib</td>
+</tr>
+<tr>
+<td>CCLE.target</td>
+<td>Molecular target of the drug</td>
+<td>EGFR, c-MET, ALK</td>
+</tr>
+<tr>
+<td>CCLE.mechanismOfAction</td>
+<td>Mechanism of action</td>
+<td>EGFR Inhibitor, c-MET Inhibitor</td>
+</tr>
+<tr>
+<td>CCLE.class</td>
+<td>Drug class</td>
+<td>Kinase inhibitor, Cytotoxic</td>
+</tr>
+<tr>
+<td>CCLE.highestClinicalTrialPhase</td>
+<td>Highest clinical trial phase reached</td>
+<td>Launched-2004, Preclinical, Phase II</td>
+</tr>
+<tr>
+<td>CCLE.treatmentSourceOrganization</td>
+<td>Organization that developed the drug</td>
+<td>Genentech, Pfizer, Novartis</td>
+</tr>
+<tr>
+<td>CCLE.treatmentid</td>
+<td>Standardized treatment ID</td>
+<td>ERLOTINIB, LAPATINIB</td>
+</tr>
+</tbody>
+</table>
+<h4 id="treatment-response-profiles">Treatment Response: Profiles</h4>
+<ul>
+<li><strong>Name</strong>: Preprocessed Treatment Response Profiles</li>
+<li><strong>Input Data</strong>: CCLE NP24.2009 Drug Data</li>
+<li><strong>Processing Scripts</strong>: <code>workflow/scripts/R/preprocessTreatmentResponse.R</code></li>
+<li><strong>Output Location</strong>: <code>data/procdata/preprocessed_TreatmentResponse_profiles.csv</code></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Column Name</th>
+<th>Description</th>
+<th>Units/Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sampleid</td>
+<td>Cell line identifier</td>
+<td>Same as <code>CCLE.sampleid</code></td>
+</tr>
+<tr>
+<td>treatmentid</td>
+<td>Drug identifier</td>
+<td>Same as <code>CCLE.treatmentid</code></td>
+</tr>
+<tr>
+<td>EC50</td>
+<td>Half maximal effective concentration</td>
+<td>μM (micromolar)</td>
+</tr>
+<tr>
+<td>IC50</td>
+<td>Half maximal inhibitory concentration</td>
+<td>μM (micromolar)</td>
+</tr>
+<tr>
+<td>Amax</td>
+<td>Maximum activity/effect level</td>
+<td>Percentage, negative values indicate inhibition</td>
+</tr>
+<tr>
+<td>ActArea</td>
+<td>Activity area</td>
+<td>Area under the dose-response curve</td>
+</tr>
+</tbody>
+</table>
+<h4 id="treatment-response-raw">Treatment Response: Raw</h4>
+<p>After extracting the treatment response data from the <code>CCLE NP24.2009 Drug Data</code>,
+we create a long table format of the data for ingestion.</p>
+<ul>
+<li><strong>Name</strong>: Preprocessed Raw Treatment Response</li>
+<li><strong>Input Data</strong>: CCLE NP24.2009 Drug Data</li>
+<li><strong>Processing Scripts</strong>: <code>workflow/scripts/R/preprocessTreatmentResponse.R</code></li>
+<li><strong>Output Location</strong>: <code>data/procdata/preprocessed_TreatmentResponse_raw.csv</code></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Column Name</th>
+<th>Description</th>
+<th>Units/Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sampleid</td>
+<td>Cell line identifier</td>
+<td>Same as <code>CCLE.sampleid</code></td>
+</tr>
+<tr>
+<td>treatmentid</td>
+<td>Drug identifier</td>
+<td>Same as <code>CCLE.treatmentid</code></td>
+</tr>
+<tr>
+<td>dose</td>
+<td>Drug concentration</td>
+<td>μM (micromolar)</td>
+</tr>
+<tr>
+<td>viability</td>
+<td>Cell viability at given dose</td>
+<td>Percentage, values &gt; 100 indicate growth, &lt; 100 indicate inhibition (median)</td>
+</tr>
+</tbody>
+</table>
               
             </div>
           </div><footer>
