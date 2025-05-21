@@ -2,6 +2,8 @@ from damply import dirs as dmpdirs
 
 configfile: "config/pipeline.yaml"
 
+CONTAINER = 'ghcr.io/bhklab-dataprocessing/ccle-treatmentresponse-snakemake:16d5068'
+
 storage:
     provider="http"
 
@@ -15,6 +17,8 @@ rule buildTreatmentResponseExperiment:
         tre = dmpdirs.RESULTS / "treatmentResponseExperiment.RDS",
     log:
         dmpdirs.LOGS / "buildTreatmentResponseExperiment.log",
+    container:
+        CONTAINER
     threads:
         40
     script:
@@ -27,6 +31,8 @@ rule preprocessMetadata:
     output:
         sampleMetadata = dmpdirs.METADATA / "sampleMetadata.tsv",
         treatmentMetadata = dmpdirs.METADATA / "treatmentMetadata.tsv",
+    container:
+        CONTAINER
     script:
         dmpdirs.SCRIPTS / "R" / "preprocessMetadata.R"
 

@@ -27,6 +27,7 @@ ipython = "*"
 ipykernel = "*"
 jupyterlab = "*"
 pip = "*"
+apptainer = ">=1.4.0,<2"
 
 [pypi-dependencies]
 damply = ">=0.10.0, <0.11"
@@ -39,7 +40,7 @@ snakemake = "*"
 snakemake-storage-plugin-http = "*"
 
 [feature.snakemake.tasks]
-pipeline = { cmd = "snakemake --cores all", description = "Run snakemake pipeline" }
+pipeline = { cmd = "snakemake --cores all --use-apptainer", description = "Run snakemake pipeline" }
 
 ############################################## QUALITY ###############################################
 # Quality includes linting, type checking, and formatting
