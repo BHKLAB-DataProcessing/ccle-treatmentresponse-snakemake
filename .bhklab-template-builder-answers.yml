@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: v0.10.0
+_src_path: gh:bhklab/bhklab-project-template
+author_email: bhklab.jermiahjoseph@gmail.com
+author_full_name: Jermiah Joseph
+github_username: jjjermiah
+has_additional_authors: false
+project_description: Snakemake pipeline to curate and prepare the CCLE drug resonse
+    data only.
+project_name: CCLE TreatmentResponse Snakemake
+project_slug: ccle-treatmentresponse-snakemake
+publish_to_github: true
+python_version: '3.13'
+repo_location: BHKLAB-DataProcessing
