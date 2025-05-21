@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.3.1...v0.3.2) (2025-05-21)
+
+
+### Bug Fixes
+
+* rename to yaml ([d63eb62](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/d63eb62543d83922e55a37ffc5e5ff490b8d110b))
+
 ## [0.3.1](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.3.0...v0.3.1) (2025-05-21)
 
 
