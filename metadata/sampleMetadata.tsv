@@ -1,0 +1,1462 @@
+CCLE.sampleid	CCLE.name	CCLE.depMapID	CCLE.site_Primary	CCLE.site_Subtype1	CCLE.site_Subtype2	CCLE.site_Subtype3	CCLE.histology	CCLE.histology_Subtype1	CCLE.histology_Subtype2	CCLE.histology_Subtype3	CCLE.gender	CCLE.age	CCLE.race	CCLE.disease	CCLE.type
+DMS53_LUNG	DMS 53	ACH-000698	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	54	caucasian	lung_cancer	lung_small_cell
+SW1116_LARGE_INTESTINE	SW1116	ACH-000489	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	73	caucasian		colorectal
+NCIH1694_LUNG	NCI-H1694	ACH-000431	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	61	caucasian		lung_small_cell
+P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P3HR-1	ACH-000707	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male	7	african_american	Burkitts lymphoma	lymphoma_Burkitt
+HUT78_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HuT 78	ACH-000509	haematopoietic_and_lymphoid_tissue	skin	NS	NS	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome	NS	NS	male	53	caucasian	sezary_syndrome	lymphoma_other
+UMUC3_URINARY_TRACT	UM-UC-3	ACH-000522	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male			bladder_cancer	urinary_tract
+HOS_BONE	HOS	ACH-000613	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	female	13	caucasian		osteosarcoma
+HUNS1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HuNS1	ACH-000829	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male			myeloma	multiple_myeloma
+AML193_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AML-193	ACH-000557	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	female	13			AML
+RVH421_SKIN	RVH-421	ACH-000614	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	28	caucasian		melanoma
+NCIH1184_LUNG	NCI-H1184	ACH-000523	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	42	caucasian		lung_small_cell
+HCC2157_BREAST	HCC2157	ACH-000691	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	48	african_american	ductal_carcinoma	breast
+TC71_BONE	TC-71	ACH-000424	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	male	22		Ewings_sarcoma	Ewings_Sarcoma
+NCIH2227_LUNG	NCI-H2227	ACH-000610	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	54	caucasian		lung_small_cell
+COLO205_LARGE_INTESTINE	COLO 205	ACH-001039	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	70	caucasian	colon_cancer	colorectal
+SNU449_LIVER	SNU-449	ACH-000420	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	52	asian	hepatocellular_cancer	liver
+NCIH28_PLEURA	NCI-H28	ACH-000648	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	48	caucasian		mesothelioma
+OV56_OVARY	OV56	ACH-000091	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	46			ovary
+JHOS4_OVARY	JHOS-4	ACH-000584	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	44	asian		ovary
+KYSE450_OESOPHAGUS	KYSE-450	ACH-000865	oesophagus	middle_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	59	asian	well differentiated invasive eosphageal squamous cell carcinoma	esophagus
+RMUGS_OVARY	RMUG-S	ACH-000701	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	62			ovary
+KLE_ENDOMETRIUM	KLE	ACH-000293	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	64	caucasian		endometrium
+HS895T_FIBROBLAST	Hs 895.T	ACH-000043	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	48	caucasian		melanoma
+LN229_CENTRAL_NERVOUS_SYSTEM	LN-229	ACH-000595	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female	60	caucasian		glioma
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P31/FUJ	ACH-000770	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male		asian		AML
+RKN_SOFT_TISSUE	RKN	ACH-000505	soft_tissue	smooth_muscle	ovary	NS	leiomyosarcoma	NS	NS	NS	female	45	asian		ovary
+PATU8988S_PANCREAS	PA-TU-8988S	ACH-000022	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	64			pancreas
+NH6_AUTONOMIC_GANGLIA	NH-6	ACH-000203	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	female	0.75		neuroblastoma	neuroblastoma
+SF126_CENTRAL_NERVOUS_SYSTEM	SF126	ACH-000609	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS					glioma
+RERFLCAD2_LUNG	RERF-LC-Ad2	ACH-000774	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male		asian		lung_NSC
+OUMS23_LARGE_INTESTINE	OUMS-23	ACH-000296	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS					colorectal
+SNGM_ENDOMETRIUM	SNG-M	ACH-000974	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	52	asian	intermediately differentiated adenocarcinoma	endometrium
+OUMS27_BONE	OUMS-27	ACH-001150	bone	NS	NS	NS	chondrosarcoma	NS	NS	NS	male				chondrosarcoma
+PL45_PANCREAS	PL45	ACH-001171	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male		caucasian		pancreas
+NCIH2347_LUNG	NCI-H2347	ACH-000875	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	54	caucasian	lung_cancer	lung_NSC
+SW1990_PANCREAS	SW 1990	ACH-000155	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	56	caucasian		pancreas
+HS940T_FIBROBLAST	Hs 940.T	ACH-000135	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	57	caucasian		melanoma
+HS611T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Hs 611.T	ACH-000069	haematopoietic_and_lymphoid_tissue	spleen	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	female	48			lymphoma_Hodgkin
+TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Toledo	ACH-000285	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	female		caucasian		lymphoma_DLBCL
+RERFGC1B_STOMACH	RERF-GC-1B	ACH-000144	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	41	asian		stomach
+HT1080_SOFT_TISSUE	HT-1080	ACH-000054	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	NS	fibrosarcoma	NS	NS	NS	male	35	caucasian	fibrosarcoma_cancer	soft_tissue
+NCIH2087_LUNG	NCI-H2087	ACH-000841	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	69	caucasian	lung_cancer	lung_NSC
+COV318_OVARY	COV318	ACH-000256	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female				ovary
+NCIH2085_LUNG	NCI-H2085	ACH-000451	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	45			lung_NSC
+NCIH510_LUNG	NCI-H510	ACH-000871	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	56	caucasian		lung_small_cell
+CAKI1_KIDNEY	Caki-1	ACH-000433	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male	49	caucasian	clear_cell_carcinoma	kidney
+NCIH716_LARGE_INTESTINE	NCI-H716	ACH-000491	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	33	caucasian		colorectal
+NCIH2066_LUNG	NCI-H2066	ACH-000727	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	70	caucasian		lung_small_cell
+NCIH1341_LUNG	NCI-H1341	ACH-000129	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female				lung_small_cell
+NCIH2029_LUNG	NCI-H2029	ACH-000298	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	69	caucasian		lung_small_cell
+C3A_LIVER	C3A	ACH-001021	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	15	caucasian		liver
+SW480_LARGE_INTESTINE	SW480	ACH-000842	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	50	caucasian	colon_cancer	colorectal
+HS746T_STOMACH	Hs 746T	ACH-000616	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	74	caucasian		stomach
+LU65_LUNG	LU65	ACH-000438	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	64	asian	lung_cancer	lung_NSC
+HS739T_FIBROBLAST	Hs 739.T	ACH-000413	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	52	asian		breast
+SNUC2A_LARGE_INTESTINE	SNU-C2A	ACH-000967	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	43	asian		colorectal
+HEC151_ENDOMETRIUM	HEC-151	ACH-000972	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		endometrium
+MSTO211H_PLEURA	MSTO-211H	ACH-000335	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	62	caucasian	lung_cancer	mesothelioma
+RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Raji	ACH-000654	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male	12	african	lymphoma	lymphoma_Burkitt
+SKMEL1_SKIN	SK-MEL-1	ACH-000465	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	29	caucasian		melanoma
+SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-T1	ACH-000953	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	8	caucasian		T-cell_ALL
+JHH7_LIVER	JHH-7	ACH-000848	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	53	asian		liver
+HUT102_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HuT 102	ACH-000612	haematopoietic_and_lymphoid_tissue	skin	NS	NS	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome	NS	NS	male	26	african_american	mycosis_fungoides	lymphoma_other
+5637_URINARY_TRACT	5637	ACH-000905	urinary_tract	bladder	NS	NS	carcinoma	NS	NS	NS	male	68	caucasian		urinary_tract
+HCC38_BREAST	HCC38	ACH-000276	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	50	caucasian	breast_cancer	breast
+DU4475_BREAST	DU4475	ACH-000258	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	62	caucasian	breast_cancer	breast
+NCIH1573_LUNG	NCI-H1573	ACH-000916	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	35	caucasian		lung_NSC
+NCIH508_LARGE_INTESTINE	NCI-H508	ACH-000360	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	55	caucasian		colorectal
+NCIH1651_LUNG	NCI-H1651	ACH-000893	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	71			lung_NSC
+SKUT1_SOFT_TISSUE	SK-UT-1	ACH-000939	soft_tissue	smooth_muscle	uterus	NS	leiomyosarcoma	NS	NS	NS	female	75	caucasian		soft_tissue
+MDAMB175VII_BREAST	MDA-MB-175-VII	ACH-000759	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	56	african_american	invasive_ductal_carcinoma	breast
+SUPB15_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-B15	ACH-000059	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male	9	caucasian		B-cell_ALL
+BECKER_CENTRAL_NERVOUS_SYSTEM	Becker	ACH-001016	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	57			glioma
+NCIH226_LUNG	NCI-H226	ACH-000367	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male			lung_cancer	lung_NSC
+NCIH1666_LUNG	NCI-H1666	ACH-000448	lung	NS	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	NS	female	50	caucasian	lung_cancer	lung_NSC
+SW1783_CENTRAL_NERVOUS_SYSTEM	SW 1783	ACH-000883	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_III	anaplastic	NS	male	68	caucasian		glioma
+ISTMES1_PLEURA	IST-MES1	ACH-000569	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	female	70	caucasian		mesothelioma
+NCIH1734_LUNG	NCI-H1734	ACH-000675	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	56			lung_NSC
+NCIH2342_LUNG	NCI-H2342	ACH-000951	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	55	caucasian		lung_NSC
+EBC1_LUNG	EBC-1	ACH-000563	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	69		lung_cancer	lung_NSC
+YMB1_BREAST	YMB-1	ACH-001249	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	63	caucasian		breast
+OC316_OVARY	OC 316	ACH-001145	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	60			ovary
+HS936T_SKIN	Hs 936.T	ACH-000801	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male				melanoma
+T173_FIBROBLAST	T1-73	ACH-000529	bone	NS	NS	NS	osteosarcoma	NS	NS	NS					osteosarcoma
+NCIH322_LUNG	NCI-H322	ACH-000837	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	52	caucasian	lung_cancer	lung_NSC
+HS618T_FIBROBLAST	Hs 618.T	ACH-000539	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	60	caucasian		lung_NSC
+HS870T_FIBROBLAST	Hs 870.T	ACH-000340	bone	NS	NS	NS	osteosarcoma	NS	NS	NS					osteosarcoma
+HS706T_BONE	Hs 706.T	ACH-000071	bone	NS	NS	NS	giant_cell_tumour	NS	NS	NS	female	16	caucasian		giant_cell_tumour
+PANC1_PANCREAS	PANC-1	ACH-000164	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	56	caucasian		pancreas
+NCIH2291_LUNG	NCI-H2291	ACH-000718	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male				lung_NSC
+T47D_BREAST	T-47D	ACH-000147	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	54		breast_cancer	breast
+HS742T_FIBROBLAST	Hs 742.T	ACH-000230	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	71	caucasian		breast
+BICR56_UPPER_AERODIGESTIVE_TRACT	BICR 56	ACH-000771	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female		caucasian		upper_aerodigestive
+BICR16_UPPER_AERODIGESTIVE_TRACT	BICR 16	ACH-000503	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male		caucasian		upper_aerodigestive
+TE10_OESOPHAGUS	TE-10	ACH-000318	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					esophagus
+SKMEL28_SKIN	SK-MEL-28	ACH-000615	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	51		skin_cancer	melanoma
+BICR6_UPPER_AERODIGESTIVE_TRACT	BICR 6	ACH-000415	upper_aerodigestive_tract	pharynx	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male		caucasian		upper_aerodigestive
+BHY_UPPER_AERODIGESTIVE_TRACT	BHY	ACH-000548	upper_aerodigestive_tract	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	52	asian		upper_aerodigestive
+AZ521_SMALL_INTESTINE	AZ-521	ACH-001015	stomach	NS	NS	NS	carcinoma	NS	NS	NS			asian		stomach
+SH4_SKIN	SH-4	ACH-000441	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	60	caucasian		melanoma
+KPL1_BREAST	KPL-1	ACH-000028	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	50	asian	breast_cancer	breast
+CGTHW1_THYROID	CGTH-W-1	ACH-001023	thyroid	NS	NS	NS	carcinoma	follicular_carcinoma	NS	NS	female	70	asian		thyroid
+TUHR4TKB_KIDNEY	TUHR4TKB	ACH-000495	kidney	NS	NS	NS	carcinoma	NS	NS	NS					kidney
+LS123_LARGE_INTESTINE	LS123	ACH-000501	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	65	caucasian		colorectal
+HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL	ACH-000004	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	NS	male	30			AML
+HPAC_PANCREAS	HPAC	ACH-000270	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	64	caucasian	Pancreatic Cancer	pancreas
+RCC10RGB_KIDNEY	RCC10RGB	ACH-000189	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male		asian		kidney
+JHOM1_OVARY	JHOM-1	ACH-000237	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female				ovary
+SU8686_PANCREAS	SU.86.86	ACH-000114	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	57	caucasian		pancreas
+HCC33_LUNG	HCC-33	ACH-000515	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	52	caucasian	lung_cancer	lung_small_cell
+TE6_OESOPHAGUS	TE-6	ACH-000605	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					esophagus
+JHOC5_OVARY	JHOC-5	ACH-000324	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female				ovary
+ACCMESO1_PLEURA	ACC-MESO-1	ACH-000086	pleura	NS	NS	NS	mesothelioma	NS	NS	NS					mesothelioma
+BL41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BL-41	ACH-000245	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male	8	caucasian		lymphoma_Burkitt
+SNU1214_UPPER_AERODIGESTIVE_TRACT	SNU-1214	ACH-000715	upper_aerodigestive_tract	larynx	glottis	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	55	asian		upper_aerodigestive
+CORL105_LUNG	COR-L105	ACH-000161	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male		caucasian		lung_NSC
+LMSU_STOMACH	LMSU	ACH-000255	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					stomach
+SNU1197_LARGE_INTESTINE	SNU-1197	ACH-000412	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male	70	asian		colorectal
+COLO668_LUNG	COLO 668	ACH-000803	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	47			lung_small_cell
+OSRC2_KIDNEY	OS-RC-2	ACH-000159	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male				kidney
+HUH6_LIVER	HuH-6	ACH-000671	liver	NS	NS	NS	other	hepatoblastoma	NS	NS	male		asian		liver
+PANC0203_PANCREAS	Panc 02.03	ACH-000042	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	female	70	caucasian		pancreas
+CJM_SKIN	CJM	ACH-000458	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+BICR22_UPPER_AERODIGESTIVE_TRACT	BICR 22	ACH-000794	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male		caucasian		upper_aerodigestive
+SHSY5Y_AUTONOMIC_GANGLIA	SH-SY5Y	ACH-001188	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	female	4			neuroblastoma
+TM31_CENTRAL_NERVOUS_SYSTEM	TM-31	ACH-000592	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS					glioma
+SNU1272_KIDNEY	SNU-1272	ACH-000513	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	female	63	asian		kidney
+KPNRTBM1_AUTONOMIC_GANGLIA	KP-N-RT-BM-1	ACH-000345	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS				neuroblastoma	neuroblastoma
+BICR18_UPPER_AERODIGESTIVE_TRACT	BICR 18	ACH-000992	upper_aerodigestive_tract	larynx	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male				upper_aerodigestive
+TE4_OESOPHAGUS	TE-4	ACH-000917	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					esophagus
+PCM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PCM6	ACH-001162	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS					multiple_myeloma
+ECC10_STOMACH	ECC10	ACH-000560	stomach	NS	NS	NS	carcinoma	small_cell_adenocarcinoma	NS	NS					stomach
+TUHR14TKB_KIDNEY	TUHR14TKB	ACH-000317	kidney	NS	NS	NS	carcinoma	NS	NS	NS					kidney
+YD15_SALIVARY_GLAND	YD-15	ACH-000836	salivary_gland	tongue	NS	NS	carcinoma	mucoepidermoid_carcinoma	NS	NS	male	39	asian		other
+UBLC1_URINARY_TRACT	U-BLC1	ACH-000741	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female				urinary_tract
+ECGI10_OESOPHAGUS	EC-GI-10	ACH-000305	oesophagus	NS	NS	NS	carcinoma	NS	NS	NS	male	65			esophagus
+CW2_LARGE_INTESTINE	CW-2	ACH-000998	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	female	55			colorectal
+SNU761_LIVER	SNU-761	ACH-000537	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	49	asian		liver
+SNU61_LARGE_INTESTINE	SNU-61	ACH-000532	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male	48	asian		colorectal
+NCIH1915_LUNG	NCI-H1915	ACH-000434	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	female	61	caucasian		lung_NSC
+SNU324_PANCREAS	SNU-324	ACH-000933	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	50	asian		pancreas
+YD10B_UPPER_AERODIGESTIVE_TRACT	YD-10B	ACH-000723	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	67	asian		upper_aerodigestive
+HCC2279_LUNG	HCC-2279	ACH-000731	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	52	asian	lung_cancer	lung_NSC
+HLC1_LUNG	HLC-1	ACH-001088	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+TUHR10TKB_KIDNEY	TUHR10TKB	ACH-000459	kidney	NS	NS	NS	carcinoma	NS	NS	NS					kidney
+HEC1B_ENDOMETRIUM	HEC-1-B	ACH-000941	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	71			endometrium
+VMRCLCP_LUNG	VMRC-LCP	ACH-001234	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					lung_NSC
+TGBC11TKB_STOMACH	TGBC11TKB	ACH-000949	stomach	NS	NS	NS	carcinoma	NS	NS	NS	female				stomach
+OVK18_OVARY	OVK18	ACH-000947	ovary	NS	NS	NS	carcinoma	endometrioid_carcinoma	NS	NS	female				ovary
+SNU1077_ENDOMETRIUM	SNU-1077	ACH-000302	endometrium	NS	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	NS	female	60	asian		endometrium
+HCC1588_LUNG	HCC-1588	ACH-001078	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	63			lung_NSC
+SNU213_PANCREAS	SNU-213	ACH-000266	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	65	asian		pancreas
+HT115_LARGE_INTESTINE	HT115	ACH-000986	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS					colorectal
+TE14_OESOPHAGUS	TE-14	ACH-000726	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					esophagus
+TE8_OESOPHAGUS	TE-8	ACH-000452	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					esophagus
+SNU520_STOMACH	SNU-520	ACH-000908	stomach	NS	NS	NS	carcinoma	NS	NS	NS	female	60	asian		stomach
+JHUEM3_ENDOMETRIUM	JHUEM-3	ACH-000173	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					endometrium
+LI7_LIVER	Li-7	ACH-000471	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS					liver
+NCIH838_LUNG	NCI-H838	ACH-000416	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	59	caucasian		lung_NSC
+SNU119_OVARY	SNU-119	ACH-000635	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	50	asian		ovary
+SNU1033_LARGE_INTESTINE	SNU-1033	ACH-000286	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	female	45	asian		colorectal
+SNUC5_LARGE_INTESTINE	SNU-C5	ACH-000970	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	77	asian		colorectal
+GSS_STOMACH	GSS	ACH-000746	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					stomach
+TALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TALL-1	ACH-000197	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	28			T-cell_ALL
+HCC1171_LUNG	HCC-1171	ACH-000578	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	58	caucasian	lung_cancer	lung_NSC
+SNUC4_LARGE_INTESTINE	SNU-C4	ACH-000959	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	35	asian		colorectal
+U138MG_CENTRAL_NERVOUS_SYSTEM	U-138 MG	ACH-001214	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS	null	50	caucasian	brain_cancer	glioma
+SNU620_STOMACH	SNU-620	ACH-000325	stomach	NS	NS	NS	carcinoma	NS	NS	NS	female	59	asian		stomach
+ECC12_STOMACH	ECC12	ACH-000225	stomach	NS	NS	NS	carcinoma	small_cell_adenocarcinoma	NS	NS	male	63			stomach
+GSU_STOMACH	GSU	ACH-000485	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					stomach
+KMS18_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-18	ACH-000658	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS				multiple_myeloma	multiple_myeloma
+JHOM2B_OVARY	JHOM-2B	ACH-000333	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female				ovary
+MDAMB231_BREAST	MDA-MB-231	ACH-000768	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	51	caucasian	breast_cancer	breast
+OV90_OVARY	OV-90	ACH-000291	ovary	NS	NS	NS	carcinoma	mixed_carcinoma	NS	NS	female	64	caucasian	malignant_papillary_serous_adenocarcinoma	ovary
+RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RS4;11	ACH-000874	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	32	caucasian		B-cell_ALL
+OVTOKO_OVARY	OVTOKO	ACH-000663	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	78	asian	Ovarian Cancer	ovary
+OVCAR4_OVARY	OVCAR-4	ACH-000617	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	42		ovarian_cancer	ovary
+HLF_LIVER	HLF	ACH-000393	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	69	asian		liver
+HCT15_LARGE_INTESTINE	HCT-15	ACH-000997	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male			colon_cancer	colorectal
+SW1463_LARGE_INTESTINE	SW1463	ACH-000470	large_intestine	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	66	caucasian		colorectal
+SF295_CENTRAL_NERVOUS_SYSTEM	SF-295	ACH-000376	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female	67		brain_cancer	glioma
+WM115_SKIN	WM-115	ACH-000304	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	59			melanoma
+JHH4_LIVER	JHH-4	ACH-000476	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	51	asian		liver
+OE33_OESOPHAGUS	OE33	ACH-000383	oesophagus	lower_third	NS	NS	other	metaplasia	NS	NS	female	73	caucasian		esophagus
+CCK81_LARGE_INTESTINE	CCK-81	ACH-000963	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS				Colon Cancer	colorectal
+JHH1_LIVER	JHH-1	ACH-000620	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	50	asian		liver
+SJSA1_BONE	SJSA-1	ACH-000748	bone	femur	NS	NS	osteosarcoma	NS	NS	NS	male	19	african_american		osteosarcoma
+NCIH2228_LUNG	NCI-H2228	ACH-000447	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female				lung_NSC
+RERFLCAI_LUNG	RERF-LC-AI	ACH-000261	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS				lung_cancer	lung_NSC
+SKMES1_LUNG	SK-MES-1	ACH-000665	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	65	caucasian	lung_cancer	lung_NSC
+NCIH520_LUNG	NCI-H520	ACH-000395	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male				lung_NSC
+JHH5_LIVER	JHH-5	ACH-000734	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	50	asian		liver
+FU97_STOMACH	FU97	ACH-000633	stomach	NS	NS	NS	carcinoma	diffuse_adenocarcinoma	NS	NS	female	66	asian		stomach
+COLO800_SKIN	COLO-800	ACH-000401	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	14			melanoma
+NCIH1963_LUNG	NCI-H1963	ACH-000729	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	56	african_american		lung_small_cell
+RL952_ENDOMETRIUM	RL95-2	ACH-000965	endometrium	NS	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	NS	female	65	caucasian		endometrium
+J82_URINARY_TRACT	J82	ACH-000396	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male	58	caucasian		urinary_tract
+HCC15_LUNG	HCC-15	ACH-000878	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	47	african_american	lung_cancer	lung_NSC
+M059K_CENTRAL_NERVOUS_SYSTEM	M059K	ACH-000152	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	33			glioma
+CALU6_LUNG	Calu-6	ACH-000264	lung	NS	NS	NS	carcinoma	undifferentiated_carcinoma	NS	NS	female	61	caucasian	lung_cancer	lung_NSC
+SKLU1_LUNG	SK-LU-1	ACH-000309	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	60	caucasian		lung_NSC
+SW900_LUNG	SW 900	ACH-000669	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	53	caucasian		lung_NSC
+UACC62_SKIN	UACC-62	ACH-000425	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS				melanoma	melanoma
+MFE280_ENDOMETRIUM	MFE-280	ACH-000192	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	77		recurrent_endometrial_carcinoma	endometrium
+MFE319_ENDOMETRIUM	MFE-319	ACH-000988	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	81		Endometrial Cancer	endometrium
+MFE296_ENDOMETRIUM	MFE-296	ACH-000879	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	68	caucasian		endometrium
+GOS3_CENTRAL_NERVOUS_SYSTEM	GOS-3	ACH-000027	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS	male	55		Brain Cancer	glioma
+GI1_CENTRAL_NERVOUS_SYSTEM	GI-1	ACH-000756	central_nervous_system	brain	NS	NS	glioma	gliosarcoma	NS	NS	male	61	asian		glioma
+PC14_LUNG	PC-14	ACH-000030	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS			asian	lung_cancer	lung_NSC
+KYSE410_OESOPHAGUS	KYSE-410	ACH-000809	oesophagus	upper_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	51	asian		esophagus
+A204_SOFT_TISSUE	A-204	ACH-000201	soft_tissue	striated_muscle	NS	NS	rhabdoid_tumour	NS	NS	NS	female	1			soft_tissue
+PATU8902_PANCREAS	PA-TU-8902	ACH-000599	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	44			pancreas
+NCIH810_LUNG	NCI-H810	ACH-000789	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	51	african_american		lung_NSC
+RERFLCMS_LUNG	RERF-LC-MS	ACH-000062	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS			asian	lung_cancer	lung_NSC
+L1236_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-1236	ACH-000702	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	34		lymphoma	lymphoma_Hodgkin
+DANG_PANCREAS	DAN-G	ACH-000243	pancreas	NS	NS	NS	carcinoma	NS	NS	NS				Pancreatic Cancer	pancreas
+NCIH460_LUNG	NCI-H460	ACH-000463	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male			large_cell_lung_cancer	lung_NSC
+KYSE140_OESOPHAGUS	KYSE-140	ACH-000823	oesophagus	middle_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	54	asian		esophagus
+KYSE180_OESOPHAGUS	KYSE-180	ACH-000693	oesophagus	middle_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	53	asian		esophagus
+HUPT3_PANCREAS	HUP-T3	ACH-000118	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	66	asian		pancreas
+EFE184_ENDOMETRIUM	EFE-184	ACH-000435	endometrium	NS	NS	NS	carcinoma	NS	NS	NS	female	69	caucasian		endometrium
+GCIY_STOMACH	GCIY	ACH-000047	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		stomach
+SH10TC_STOMACH	SH-10-TC	ACH-000764	stomach	NS	NS	NS	carcinoma	NS	NS	NS					stomach
+CAOV4_OVARY	Caov-4	ACH-000103	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	45	caucasian		ovary
+HCC2218_BREAST	HCC2218	ACH-000755	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	38	caucasian		breast
+KMS21BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-21BM	ACH-000598	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	62	asian		multiple_myeloma
+KMS26_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-26	ACH-000588	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	50	asian	multiple_myeloma	multiple_myeloma
+KMS27_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-27	ACH-000576	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	52	asian	multiple_myeloma	multiple_myeloma
+KO52_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KO52	ACH-000498	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	NS	male	46			AML
+KMS28BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-28BM	ACH-000419	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	77	asian		multiple_myeloma
+KNS60_CENTRAL_NERVOUS_SYSTEM	KNS-60	ACH-000445	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	55			glioma
+KNS81_CENTRAL_NERVOUS_SYSTEM	KNS-81	ACH-000479	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	65			glioma
+KPNSI9S_AUTONOMIC_GANGLIA	KP-N-SI9s	ACH-000446	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS					neuroblastoma
+LU99_LUNG	LU99	ACH-000444	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	63	asian		lung_NSC
+KMS34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-34	ACH-000541	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	60	asian	multiple_myeloma	multiple_myeloma
+MKN1_STOMACH	MKN1	ACH-000351	stomach	NS	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	NS	male	72	asian		stomach
+MKN74_STOMACH	MKN74	ACH-000758	stomach	NS	NS	NS	carcinoma	tubular_adenocarcinoma	NS	NS	male	37	asian	gastric_cancer	stomach
+KP3_PANCREAS	KP-3	ACH-000108	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	75	asian		pancreas
+NCO2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCO2	ACH-000076	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	NS	female	35			CML
+KHM1B_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KHM-1B	ACH-000564	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	53			multiple_myeloma
+HSC2_UPPER_AERODIGESTIVE_TRACT	HSC-2	ACH-000472	upper_aerodigestive_tract	mouth	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	69			upper_aerodigestive
+KG1C_CENTRAL_NERVOUS_SYSTEM	KG-1-C	ACH-000126	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	13			glioma
+HUH7_LIVER	HuH-7	ACH-000480	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	57	asian		liver
+KMBC2_URINARY_TRACT	KMBC-2	ACH-000862	urinary_tract	bladder	NS	NS	carcinoma	NS	NS	NS					urinary_tract
+KMRC20_KIDNEY	KMRC-20	ACH-000250	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+HUCCT1_BILIARY_TRACT	HuCCT1	ACH-000976	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS	male		asian		bile_duct
+KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Ki-JK	ACH-000773	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	NS	male	15			lymphoma_other
+A4FUK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A4/Fuk	ACH-000157	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	female	52	asian		lymphoma_DLBCL
+KALS1_CENTRAL_NERVOUS_SYSTEM	KALS-1	ACH-000231	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS	female				glioma
+HEC108_ENDOMETRIUM	HEC-108	ACH-000990	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		endometrium
+HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL 92.1.7	ACH-000005	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	NS	male	30	caucasian	erythroleukemia	AML
+HUH28_BILIARY_TRACT	HuH28	ACH-000808	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS			asian		bile_duct
+CMK115_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMK-11-5	ACH-001036	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	NS					AML
+HEC265_ENDOMETRIUM	HEC-265	ACH-000946	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		endometrium
+CAL12T_LUNG	CAL-12T	ACH-000826	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male				lung_NSC
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	THP-1	ACH-000146	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male	1		acute_monocytic_leukemia	AML
+A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A3/KAW	ACH-000697	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	female				lymphoma_DLBCL
+SKNSH_AUTONOMIC_GANGLIA	SK-N-SH	ACH-000149	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	female	4		neuroblastoma	neuroblastoma
+HCC1954_BREAST	HCC1954	ACH-000859	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	61	east_indian	breast_cancer	breast
+CAMA1_BREAST	CAMA-1	ACH-000783	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	51	caucasian	breast_cancer	breast
+HEC6_ENDOMETRIUM	HEC-6	ACH-000984	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		endometrium
+AM38_CENTRAL_NERVOUS_SYSTEM	AM-38	ACH-000269	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	36			glioma
+HEC50B_ENDOMETRIUM	HEC-50B	ACH-000831	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		endometrium
+HSC3_UPPER_AERODIGESTIVE_TRACT	HSC-3	ACH-000778	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	64			upper_aerodigestive
+HSC4_UPPER_AERODIGESTIVE_TRACT	HSC-4	ACH-000546	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	64			upper_aerodigestive
+KMS11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-11	ACH-000714	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	67	asian	multiple_myeloma	multiple_myeloma
+KP4_PANCREAS	KP4	ACH-000265	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	50	asian		pancreas
+KE39_STOMACH	KE-39	ACH-000507	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	77	asian		stomach
+COV504_OVARY	COV504	ACH-001048	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female				ovary
+KE97_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KE-97	ACH-000167	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	52	asian		multiple_myeloma
+VMRCRCW_KIDNEY	VMRC-RCW	ACH-000484	kidney	NS	NS	NS	carcinoma	NS	NS	NS	male				kidney
+HGC27_STOMACH	HGC-27	ACH-000847	stomach	NS	NS	NS	carcinoma	undifferentiated_adenocarcinoma	NS	NS			asian		stomach
+LUDLU1_LUNG	LUDLU-1	ACH-000390	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	72	caucasian		lung_NSC
+HUG1N_STOMACH	HuG1-N	ACH-000239	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	55	asian		stomach
+U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U266B1	ACH-000626	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	53		myeloma	multiple_myeloma
+NUGC4_STOMACH	NUGC-4	ACH-000674	stomach	NS	NS	NS	carcinoma	signet_ring_adenocarcinoma	NS	NS	female	35	asian		stomach
+BGC823_STOMACH	BGC-823	ACH-001017	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	62	asian		stomach
+HMC18_BREAST	HMC-1-8	ACH-000721	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	35	asian		breast
+CAS1_CENTRAL_NERVOUS_SYSTEM	CAS-1	ACH-000464	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	63			glioma
+KMM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMM-1	ACH-000889	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	62	asian	multiple_myeloma	multiple_myeloma
+CORL23_LUNG	COR-L23	ACH-000662	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	62	caucasian		lung_NSC
+MORCPR_LUNG	MOR/CPR	ACH-000851	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS				Lung Cancer	lung_NSC
+HARA_LUNG	HARA	ACH-000843	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	57	asian	Lung Cancer	lung_NSC
+SKOV3_OVARY	SK-OV-3	ACH-000811	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	64	caucasian	ovarian_cancer	ovary
+HPAFII_PANCREAS	HPAF-II	ACH-000094	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	44	caucasian		pancreas
+MC116_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MC116	ACH-000583	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	male			undifferentiated B lymphoma	lymphoma_other
+NCIH1568_LUNG	NCI-H1568	ACH-000869	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female	48	caucasian		lung_NSC
+CA46_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CA46	ACH-000440	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male				lymphoma_Burkitt
+A498_KIDNEY	A-498	ACH-000555	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male	52		renal_cell_carcinoma	kidney
+BCP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BCP-1	ACH-000923	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	male	92			lymphoma_other
+A673_BONE	A-673	ACH-000052	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	female	15		Ewings_sarcoma	Ewings_Sarcoma
+AU565_BREAST	AU565	ACH-000248	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	43	caucasian	breast_cancer	breast
+COLO201_LARGE_INTESTINE	COLO 201	ACH-000253	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	70	caucasian	colon_cancer	colorectal
+CAPAN1_PANCREAS	Capan-1	ACH-000354	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	40	caucasian		pancreas
+NCIH1563_LUNG	NCI-H1563	ACH-000892	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male				lung_NSC
+NCIH358_LUNG	NCI-H358	ACH-000860	lung	NS	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	NS	male			bronchioalveolar_carcinoma; non-small_cell lung_cancer	lung_NSC
+CFPAC1_PANCREAS	CFPAC-1	ACH-000138	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	26	caucasian		pancreas
+NIHOVCAR3_OVARY	NIH:OVCAR-3	ACH-000001	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	60	caucasian	ovarian_cancer	ovary
+NCIH1650_LUNG	NCI-H1650	ACH-000035	lung	NS	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	NS	male	27	caucasian	lung_cancer	lung_NSC
+NCIH1793_LUNG	NCI-H1793	ACH-000888	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female	52			lung_NSC
+NCIH1437_LUNG	NCI-H1437	ACH-000589	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	6	caucasian	lung_cancer	lung_NSC
+KNS62_LUNG	KNS-62	ACH-000858	lung	bronchus	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	49			lung_NSC
+HS578T_BREAST	Hs 578T	ACH-000148	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	74	caucasian	breast_cancer	breast
+BT20_BREAST	BT-20	ACH-000536	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	74	caucasian	breast_cancer	breast
+SNU182_LIVER	SNU-182	ACH-000483	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	24	asian	hepatocellular_cancer	liver
+SKNMC_BONE	SK-N-MC	ACH-000039	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	female	14	caucasian	neuroepithelioma	Ewings_Sarcoma
+HH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HH	ACH-000061	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	adult_T_cell_lymphoma-leukaemia	NS	NS	male	61	caucasian	cutaneous T cell lymphoma	T-cell_ALL
+FADU_UPPER_AERODIGESTIVE_TRACT	FaDu	ACH-000846	upper_aerodigestive_tract	pharynx	hypopharynx	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	56	caucasian		upper_aerodigestive
+SJRH30_SOFT_TISSUE	SJRH30	ACH-001189	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS	male	17	caucasian		soft_tissue
+MDAMB361_BREAST	MDA-MB-361	ACH-000934	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	40	caucasian	breast_cancer	breast
+MDAMB436_BREAST	MDA-MB-436	ACH-000573	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	43	caucasian	breast_cancer	breast
+PANC0213_PANCREAS	Panc 02.13	ACH-000031	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	female	64	caucasian		pancreas
+DB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DB	ACH-000334	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	45	caucasian	germinal center B-cell-like (GCB) DLBCL	lymphoma_DLBCL
+RDES_BONE	RD-ES	ACH-000041	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	male	19	caucasian	Ewing family tumor	Ewings_Sarcoma
+CAL27_UPPER_AERODIGESTIVE_TRACT	CAL 27	ACH-000832	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	56	caucasian		upper_aerodigestive
+MESSA_SOFT_TISSUE	MES-SA	ACH-000449	soft_tissue	fibrous_tissue_and_uncertain_origin	uterus	NS	sarcoma	NS	NS	NS	female	56	caucasian		soft_tissue
+SW1271_LUNG	SW 1271	ACH-000890	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	69	caucasian		lung_small_cell
+NCIH1792_LUNG	NCI-H1792	ACH-000496	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	50	caucasian		lung_NSC
+GCT_SOFT_TISSUE	GCT	ACH-000835	soft_tissue	fibrous_tissue_and_uncertain_origin	NS	NS	malignant_fibrous_histiocytoma-pleomorphic_sarcoma	NS	NS	NS	male	29			soft_tissue
+SKBR3_BREAST	SK-BR-3	ACH-000017	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	43	caucasian	breast_cancer	breast
+SNU16_STOMACH	SNU-16	ACH-000581	stomach	NS	NS	NS	carcinoma	undifferentiated_adenocarcinoma	NS	NS	female	33	asian		stomach
+NCIH82_LUNG	NCI-H82	ACH-000355	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	41	caucasian		lung_small_cell
+NCIN87_STOMACH	NCI-N87	ACH-000427	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male				stomach
+U2OS_BONE	U-2 OS	ACH-000364	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	female	15	caucasian	bone_cancer	osteosarcoma
+H4_CENTRAL_NERVOUS_SYSTEM	H4	ACH-000389	central_nervous_system	NS	NS	NS	glioma	NS	NS	NS	male	37	caucasian		glioma
+GDM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GDM-1	ACH-000081	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	NS	female	66	caucasian		AML
+HCC1143_BREAST	HCC1143	ACH-000374	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	52	caucasian	breast_cancer	breast
+T24_URINARY_TRACT	T24	ACH-000018	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	81	caucasian	transitional_cell_carcinoma	urinary_tract
+G401_SOFT_TISSUE	G-401	ACH-000096	soft_tissue	striated_muscle	kidney	NS	rhabdoid_tumour	NS	NS	NS	male	0.25	caucasian	rhabdoid_tumour	soft_tissue
+HCC1937_BREAST	HCC1937	ACH-000223	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	24	caucasian	ductal_carcinoma	breast
+HCC1569_BREAST	HCC1569	ACH-000930	breast	NS	NS	NS	carcinoma	metaplastic_carcinoma	NS	NS	female	70	african_american	metaplastic_breast_carcinoma	breast
+OCUM1_STOMACH	OCUM-1	ACH-000247	stomach	NS	NS	NS	carcinoma	diffuse_adenocarcinoma	NS	NS	female	38	asian		stomach
+SAOS2_BONE	Saos-2	ACH-000410	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	female	11	caucasian	osteosarcoma	osteosarcoma
+D283MED_CENTRAL_NERVOUS_SYSTEM	D283 Med	ACH-000055	central_nervous_system	cerebellum	NS	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	NS	male	6	caucasian		medulloblastoma
+SCC9_UPPER_AERODIGESTIVE_TRACT	SCC-9	ACH-000181	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	25		head_neck_cancer	upper_aerodigestive
+HCC1395_BREAST	HCC1395	ACH-000699	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	43	caucasian		breast
+NMCG1_CENTRAL_NERVOUS_SYSTEM	NMC-G1	ACH-000200	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS					glioma
+TEN_ENDOMETRIUM	TEN	ACH-000397	endometrium	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	74	asian	Endometrial Cancer	endometrium
+HS604T_FIBROBLAST	Hs 604.T	ACH-001093	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	21	caucasian		lymphoma_Hodgkin
+TE9_OESOPHAGUS	TE-9	ACH-000694	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male				esophagus
+KNS42_CENTRAL_NERVOUS_SYSTEM	KNS-42	ACH-000622	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS	male	16			glioma
+KYSE520_OESOPHAGUS	KYSE-520	ACH-000637	oesophagus	lower_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	58	asian		esophagus
+KYSE270_OESOPHAGUS	KYSE-270	ACH-000873	oesophagus	middle_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	79	asian		esophagus
+JHUEM1_ENDOMETRIUM	JHUEM-1	ACH-000928	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	56	asian	Endometrial Cancer	endometrium
+YH13_CENTRAL_NERVOUS_SYSTEM	YH-13	ACH-000469	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	40			glioma
+IALM_LUNG	IA-LM	ACH-000672	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	68	asian		lung_NSC
+NCIH2052_PLEURA	NCI-H2052	ACH-000153	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	65	caucasian		mesothelioma
+EB2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EB2	ACH-001064	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	female	7	african_american		lymphoma_Burkitt
+SKNFI_AUTONOMIC_GANGLIA	SK-N-FI	ACH-000341	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	11	caucasian	neuroblastoma	neuroblastoma
+SKNAS_AUTONOMIC_GANGLIA	SK-N-AS	ACH-000260	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	female	6	caucasian	neuroblastoma	neuroblastoma
+GA10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GA-10	ACH-000162	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male	41	caucasian		lymphoma_Burkitt
+SNU398_LIVER	SNU-398	ACH-000221	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	42	asian		liver
+SNU423_LIVER	SNU-423	ACH-000493	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	40	asian	pleomorphic hepatocellular carcinoma	liver
+SCC4_UPPER_AERODIGESTIVE_TRACT	SCC-4	ACH-000238	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	55			upper_aerodigestive
+EB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EB1	ACH-000877	haematopoietic_and_lymphoid_tissue	head_neck	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	female	9	african_american		lymphoma_Burkitt
+HCC1187_BREAST	HCC1187	ACH-000111	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	41	caucasian	ductal_carcinoma	breast
+SNU387_LIVER	SNU-387	ACH-000478	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	female	41	asian		liver
+DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Daudi	ACH-000786	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male	16	african	lymphoma	lymphoma_Burkitt
+HT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HT	ACH-000914	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	male	70	caucasian		lymphoma_other
+MJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MJ	ACH-000077	haematopoietic_and_lymphoid_tissue	skin	NS	NS	lymphoid_neoplasm	mycosis_fungoides-Sezary_syndrome	NS	NS	male	50	caucasian		lymphoma_other
+JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JM1	ACH-000151	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS					lymphoma_other
+C2BBE1_LARGE_INTESTINE	C2BBe1	ACH-000009	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	72	caucasian		colorectal
+SKES1_BONE	SK-ES-1	ACH-000087	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	male	18	caucasian	Ewing family tumor	Ewings_Sarcoma
+EPLC272H_LUNG	EPLC-272H	ACH-000585	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	57	caucasian		lung_NSC
+BXPC3_PANCREAS	BxPC-3	ACH-000535	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	61			pancreas
+NCIH1355_LUNG	NCI-H1355	ACH-000666	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	53	caucasian		lung_NSC
+SNU5_STOMACH	SNU-5	ACH-000303	stomach	NS	NS	NS	carcinoma	undifferentiated_adenocarcinoma	NS	NS	female	33	asian		stomach
+SNU475_LIVER	SNU-475	ACH-000422	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	43	asian	hepatocellular_cancer	liver
+HEC251_ENDOMETRIUM	HEC-251	ACH-000996	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian	Endometrial Cancer	endometrium
+HCC95_LUNG	HCC-95	ACH-000454	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	65	caucasian	lung_cancer	lung_NSC
+253J_URINARY_TRACT	253J	ACH-000011	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS					urinary_tract
+HCC1438_LUNG	HCC-1438	ACH-000891	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	43			lung_NSC
+253JBV_URINARY_TRACT	253J-BV	ACH-000026	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS					urinary_tract
+RPMI7951_SKIN	RPMI-7951	ACH-000348	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	18	caucasian	melanoma	melanoma
+SNU1066_UPPER_AERODIGESTIVE_TRACT	SNU-1066	ACH-000682	upper_aerodigestive_tract	larynx	glottis	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	62	asian		upper_aerodigestive
+SNU1041_UPPER_AERODIGESTIVE_TRACT	SNU-1041	ACH-000618	upper_aerodigestive_tract	pharynx	NS	NS	carcinoma	NS	NS	NS					upper_aerodigestive
+HCC2108_LUNG	HCC-2108	ACH-000314	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	59			lung_NSC
+COLO783_SKIN	COLO-783	ACH-000812	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	48			melanoma
+HCC1359_LUNG	HCC-1359	ACH-000901	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	female	55	african_american	lung_cancer	lung_NSC
+BICR31_UPPER_AERODIGESTIVE_TRACT	BICR 31	ACH-000228	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male		caucasian		upper_aerodigestive
+COV362_OVARY	COV362	ACH-000278	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female				ovary
+COLO792_SKIN	COLO 792	ACH-000968	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	62			melanoma
+COV434_OVARY	COV434	ACH-000123	ovary	NS	NS	NS	sex_cord-stromal_tumour	granulosa_cell_tumour	NS	NS	female				ovary
+WM983B_SKIN	WM-983B	ACH-000765	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+HS751T_FIBROBLAST	Hs 751.T	ACH-000165	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS					lymphoma_Hodgkin
+LS513_LARGE_INTESTINE	LS513	ACH-000007	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	63	caucasian		colorectal
+NCIH2110_LUNG	NCI-H2110	ACH-000929	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS					lung_NSC
+CHAGOK1_LUNG	ChaGo-K-1	ACH-000867	lung	NS	NS	NS	carcinoma	NS	NS	NS	male	45			lung_NSC
+DMS454_LUNG	DMS 454	ACH-000844	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male				lung_small_cell
+CORL47_LUNG	COR-L47	ACH-000695	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	67	caucasian		lung_small_cell
+FTC238_THYROID	FTC-238	ACH-000897	thyroid	NS	NS	NS	carcinoma	follicular_carcinoma	NS	NS	male	42			thyroid
+DMS273_LUNG	DMS 273	ACH-000749	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	50			lung_small_cell
+FTC133_THYROID	FTC-133	ACH-000903	thyroid	NS	NS	NS	carcinoma	follicular_carcinoma	NS	NS	male	42			thyroid
+CORL311_LUNG	COR-L311	ACH-000187	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	63			lung_small_cell
+NCIH2286_LUNG	NCI-H2286	ACH-000912	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	57	caucasian		lung_small_cell
+NCIH1339_LUNG	NCI-H1339	ACH-000921	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	49	caucasian		lung_small_cell
+WM793_SKIN	WM-793	ACH-000827	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+A704_KIDNEY	A-704	ACH-000429	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male	78		kidney_cancer	kidney
+MDAMB435S_SKIN	MDA-MB-435S	ACH-000884	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	31	caucasian	melanoma	melanoma
+WM1799_SKIN	WM1799	ACH-000661	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+MEWO_SKIN	MeWo	ACH-000987	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	78	caucasian		melanoma
+WM88_SKIN	WM-88	ACH-000899	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+NCIH2081_LUNG	NCI-H2081	ACH-000394	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	59	caucasian		lung_small_cell
+HS255T_FIBROBLAST	Hs 255.T	ACH-000199	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	46	caucasian		colorectal
+NCIH1092_LUNG	NCI-H1092	ACH-000514	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	67	caucasian		lung_small_cell
+SW837_LARGE_INTESTINE	SW837	ACH-000421	large_intestine	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	53	caucasian		colorectal
+JHH6_LIVER	JHH-6	ACH-000217	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	female	57	asian		liver
+IGR1_SKIN	IGR-1	ACH-000882	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	42			melanoma
+NCIH1105_LUNG	NCI-H1105	ACH-000780	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	73	caucasian		lung_small_cell
+NCIH1436_LUNG	NCI-H1436	ACH-000830	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	39	caucasian		lung_small_cell
+NCIH1876_LUNG	NCI-H1876	ACH-000586	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	59	caucasian		lung_small_cell
+CORL24_LUNG	COR-L24	ACH-000382	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	71			lung_small_cell
+COV644_OVARY	COV644	ACH-000608	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female				ovary
+GP2D_LARGE_INTESTINE	GP2d	ACH-000982	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	71			colorectal
+PECAPJ15_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ15	ACH-000619	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	45			upper_aerodigestive
+CORL88_LUNG	COR-L88	ACH-000508	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	55	caucasian		lung_small_cell
+CORL95_LUNG	COR-L95	ACH-000743	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	64			lung_small_cell
+PECAPJ49_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ49	ACH-000735	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	57	caucasian		upper_aerodigestive
+PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ34 (clone C12)	ACH-000606	upper_aerodigestive_tract	mouth	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	60			upper_aerodigestive
+CORL51_LUNG	COR-L51	ACH-001047	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	71	caucasian		lung_small_cell
+RT11284_URINARY_TRACT	RT112/84	ACH-001183	urinary_tract	bladder	NS	NS	carcinoma	NS	NS	NS	female				urinary_tract
+PECAPJ41CLONED2_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ41 (clone D2)	ACH-000732	upper_aerodigestive_tract	mouth	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	67			upper_aerodigestive
+OV7_OVARY	OV7	ACH-000688	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	78			ovary
+HT55_LARGE_INTESTINE	HT55	ACH-000926	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS					colorectal
+OAW42_OVARY	OAW42	ACH-000704	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female			ovarian_cancer	ovary
+MDST8_LARGE_INTESTINE	MDST8	ACH-000935	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS					colorectal
+OAW28_OVARY	OAW28	ACH-000116	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female				ovary
+SUIT2_PANCREAS	SUIT-2	ACH-000652	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	73	asian	moderately differentiated tubular adenocarcinoma	pancreas
+LC1SQSF_LUNG	LC-1/sq-SF	ACH-001113	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	69	asian		lung_NSC
+KASUMI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI-1	ACH-000263	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	NS	male	7	asian		AML
+SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-M2	ACH-000226	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	NS	female	5			lymphoma_other
+SKHEP1_LIVER	SK-HEP-1	ACH-000361	liver	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	52	caucasian		liver
+OVCAR8_OVARY	OVCAR-8	ACH-000696	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	64		ovarian_cancer	ovary
+NCIH2172_LUNG	NCI-H2172	ACH-000924	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female				lung_NSC
+ISHIKAWAHERAKLIO02ER_ENDOMETRIUM	Ishikawa (Heraklio) 02 ER-	ACH-000961	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	39		well differentiated endometrial adenocarcinoma	endometrium
+NCIH596_LUNG	NCI-H596	ACH-000628	lung	NS	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	NS	male	73	caucasian		lung_NSC
+NCIH650_LUNG	NCI-H650	ACH-000945	lung	NS	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	NS	male				lung_NSC
+SW1573_LUNG	SW 1573	ACH-000677	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	44	caucasian	lung_cancer	lung_NSC
+OVMANA_OVARY	OVMANA	ACH-000646	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	51	asian		ovary
+SKCO1_LARGE_INTESTINE	SK-CO-1	ACH-000400	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	65	caucasian		colorectal
+KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS-299	ACH-000053	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	NS	male	25		CD30+_anaplastic_large_cell_lymphoma	lymphoma_other
+YAPC_PANCREAS	YAPC	ACH-000332	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	43	asian		pancreas
+HT1197_URINARY_TRACT	HT-1197	ACH-000547	urinary_tract	bladder	NS	NS	carcinoma	NS	NS	NS	male	44	caucasian		urinary_tract
+A253_SALIVARY_GLAND	A-253	ACH-000740	salivary_gland	submaxillary	NS	NS	carcinoma	mucoepidermoid_carcinoma	NS	NS	male	54	caucasian		other
+HCC366_LUNG	HCC-366	ACH-000840	lung	NS	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	NS	female	80		lung_cancer	lung_NSC
+DKMG_CENTRAL_NERVOUS_SYSTEM	DK-MG	ACH-000244	central_nervous_system	parietal_lobe	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female	67			glioma
+SNU349_KIDNEY	SNU-349	ACH-000907	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male	68	asian		kidney
+UMUC1_URINARY_TRACT	UM-UC-1	ACH-000834	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male		african_american		urinary_tract
+NAMALWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NAMALWA	ACH-000944	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	female	3		lymphoma	lymphoma_Burkitt
+NCIH292_LUNG	NCI-H292	ACH-001075	lung	NS	NS	NS	carcinoma	mucoepidermoid_carcinoma	NS	NS	female	32	african_american		lung_NSC
+59M_OVARY	59M	ACH-000520	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female			ovarian_carcinoma	ovary
+U118MG_CENTRAL_NERVOUS_SYSTEM	U-118 MG	ACH-000040	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS				brain_cancer	glioma
+VMRCLCD_LUNG	VMRC-LCD	ACH-001233	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male			lung_cancer	lung_NSC
+HCC1833_LUNG	HCC-1833	ACH-000712	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	69	caucasian	lung_cancer	lung_NSC
+RH30_SOFT_TISSUE	RH-30	ACH-000833	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	alveolar	NS	NS	male	17	caucasian		soft_tissue
+TCCSUP_URINARY_TRACT	TCCSUP	ACH-000720	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	67			urinary_tract
+SNU601_STOMACH	SNU-601	ACH-000736	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	34	asian		stomach
+CAL33_UPPER_AERODIGESTIVE_TRACT	CAL-33	ACH-000518	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	69			upper_aerodigestive
+SNU668_STOMACH	SNU-668	ACH-000344	stomach	NS	NS	NS	carcinoma	signet_ring_adenocarcinoma	NS	NS	male	63	asian		stomach
+CORL279_LUNG	COR-L279	ACH-000257	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	63			lung_small_cell
+GB1_CENTRAL_NERVOUS_SYSTEM	GB-1	ACH-000738	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	35			glioma
+KURAMOCHI_OVARY	KURAMOCHI	ACH-000524	ovary	NS	NS	NS	carcinoma	undifferentiated_carcinoma	NS	NS	female		asian		ovary
+COLO775_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	COLO 775	ACH-001043	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	NS	NS	female	57			CML
+COLO684_ENDOMETRIUM	COLO 684	ACH-000864	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	63			endometrium
+KLM1_PANCREAS	KLM-1	ACH-001101	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS					pancreas
+GRM_SKIN	GR-M	ACH-001072	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	36	caucasian		melanoma
+SNU685_ENDOMETRIUM	SNU-685	ACH-000407	endometrium	NS	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	NS	female	70	asian		endometrium
+CMK86_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMK-86	ACH-001037	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	NS					AML
+SNU886_LIVER	SNU-886	ACH-000316	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	57	asian		liver
+HCT8_LARGE_INTESTINE	HCT-8	ACH-001084	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	67		colon_cancer	colorectal
+NCCSTCK140_STOMACH	NCC-StC-K140	ACH-000110	stomach	NS	NS	NS	carcinoma	NS	NS	NS	female	36			stomach
+NCIH3255_LUNG	NCI-H3255	ACH-000109	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+SNU719_STOMACH	SNU-719	ACH-000898	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	53	asian		stomach
+SNU489_CENTRAL_NERVOUS_SYSTEM	SNU-489	ACH-000543	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	54	asian		glioma
+SNU81_LARGE_INTESTINE	SNU-81	ACH-000991	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male	53	asian		colorectal
+A2058_SKIN	A2058	ACH-000788	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	43	caucasian	melanoma	melanoma
+HTK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HTK-	ACH-001094	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS					multiple_myeloma
+SNU1040_LARGE_INTESTINE	SNU-1040	ACH-000999	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male	34	asian		colorectal
+SNU1076_UPPER_AERODIGESTIVE_TRACT	SNU-1076	ACH-000549	upper_aerodigestive_tract	larynx	subglottis	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	60	asian		upper_aerodigestive
+SNU175_LARGE_INTESTINE	SNU-175	ACH-000989	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	female	56	asian		colorectal
+SNU407_LARGE_INTESTINE	SNU-407	ACH-000955	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male	37	asian		colorectal
+SNU201_CENTRAL_NERVOUS_SYSTEM	SNU-201	ACH-000623	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	58	asian		glioma
+KMS20_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-20	ACH-000426	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	65	asian	multiple_myeloma	multiple_myeloma
+SNU216_STOMACH	SNU-216	ACH-000466	stomach	NS	NS	NS	carcinoma	NS	NS	NS	female	46	asian		stomach
+SNU1196_BILIARY_TRACT	SNU-1196	ACH-000461	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS					bile_duct
+SNU1079_BILIARY_TRACT	SNU-1079	ACH-000209	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS					bile_duct
+HCC1195_LUNG	HCC-1195	ACH-000868	lung	NS	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	NS	male	47	african_american	lung_cancer	lung_NSC
+NCIH854_LUNG	NCI-H854	ACH-000710	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+SNU466_CENTRAL_NERVOUS_SYSTEM	SNU-466	ACH-000289	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	61	asian		glioma
+YD38_UPPER_AERODIGESTIVE_TRACT	YD-38	ACH-000762	upper_aerodigestive_tract	mouth	gingiva	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	67	asian		upper_aerodigestive
+SNU1105_CENTRAL_NERVOUS_SYSTEM	SNU-1105	ACH-000368	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	61	asian		glioma
+SNU283_LARGE_INTESTINE	SNU-283	ACH-000708	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	female	62	asian		colorectal
+SNU46_UPPER_AERODIGESTIVE_TRACT	SNU-46	ACH-000500	upper_aerodigestive_tract	larynx	supraglottis	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	66	asian		upper_aerodigestive
+SNU308_BILIARY_TRACT	SNU-308	ACH-000141	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS					bile_duct
+YD8_UPPER_AERODIGESTIVE_TRACT	YD-8	ACH-000630	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	46	asian		upper_aerodigestive
+SNU245_BILIARY_TRACT	SNU-245	ACH-000268	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS					bile_duct
+SNU478_BILIARY_TRACT	SNU-478	ACH-000377	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS					bile_duct
+SNU410_PANCREAS	SNU-410	ACH-000517	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	53	asian		pancreas
+SNU899_UPPER_AERODIGESTIVE_TRACT	SNU-899	ACH-000692	upper_aerodigestive_tract	larynx	glottis	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	56	asian		upper_aerodigestive
+SNU503_LARGE_INTESTINE	SNU-503	ACH-000683	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male	52	asian		colorectal
+SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Set-2	ACH-000195	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	essential_thrombocythaemia	NS	NS	female	71			leukemia_other
+SNU738_CENTRAL_NERVOUS_SYSTEM	SNU-738	ACH-000807	central_nervous_system	brain	NS	NS	glioma	oligodendroglioma	NS	NS	male	40	asian		glioma
+SNU626_CENTRAL_NERVOUS_SYSTEM	SNU-626	ACH-000370	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	65	asian		glioma
+SNU869_BILIARY_TRACT	SNU-869	ACH-000182	biliary_tract	bile_duct	NS	NS	carcinoma	NS	NS	NS					bile_duct
+SNU878_LIVER	SNU-878	ACH-000686	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	female	54	asian		liver
+SNU840_OVARY	SNU-840	ACH-000280	ovary	NS	NS	NS	carcinoma	Brenner_tumour	NS	NS	female	45	asian		ovary
+SNU8_OVARY	SNU-8	ACH-000460	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	55	asian		ovary
+NCIH684_LIVER	NCI-H684	ACH-000089	liver	NS	NS	NS	other	hepatoblastoma	NS	NS		55			liver
+IGR39_SKIN	IGR-39	ACH-000550	skin	upper_leg	NS	NS	malignant_melanoma	NS	NS	NS	male	26		Skin Cancer	melanoma
+DAOY_CENTRAL_NERVOUS_SYSTEM	Daoy	ACH-000211	central_nervous_system	brain	NS	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	NS	male	4	caucasian		medulloblastoma
+HEP3B217_LIVER	Hep 3B2.1-7	ACH-000625	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	8	african_american	hepatocellular_cancer	liver
+KYM1_SOFT_TISSUE	KYM-1	ACH-000607	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS		1	asian		soft_tissue
+LC1F_LUNG	LC-1F	ACH-000705	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	69	asian	lung_cancer	lung_NSC
+HLE_LIVER	HLE	ACH-001089	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	68	asian		liver
+CMK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMK	ACH-000641	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	NS	male	0.8333		Down syndrome; acute megakaryoblastic leukaemia	AML
+JMSU1_URINARY_TRACT	JMSU-1	ACH-000753	urinary_tract	bladder	NS	NS	carcinoma	NS	NS	NS	male	75			urinary_tract
+IMR32_AUTONOMIC_GANGLIA	IMR-32	ACH-000310	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	1	caucasian	neuroblastoma	neuroblastoma
+SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-8	ACH-000656	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	59			lymphoma_DLBCL
+T3M4_PANCREAS	T3M-4	ACH-000085	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	64	asian		pancreas
+COLO818_SKIN	COLO-818	ACH-001044	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+PK45H_PANCREAS	PK-45H	ACH-000468	pancreas	NS	NS	NS	carcinoma	NS	NS	NS					pancreas
+HEC59_ENDOMETRIUM	HEC-59	ACH-000994	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female		asian		endometrium
+CPCN_LUNG	CPC-N	ACH-001049	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS					lung_small_cell
+T3M10_LUNG	T3M-10	ACH-000813	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	40	asian		lung_NSC
+NUGC2_STOMACH	NUGC-2	ACH-000761	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	56			stomach
+PLCPRF5_LIVER	PLC/PRF/5	ACH-001318	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	24			liver
+KPNYN_AUTONOMIC_GANGLIA	KP-N-YN	ACH-000227	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	2		neuroblastoma	neuroblastoma
+CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	CCF-STTG1	ACH-000329	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS	female	68	caucasian	brain_cancer	glioma
+NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCI-H929	ACH-000050	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	62	caucasian	multiple_myeloma	multiple_myeloma
+KMRC3_KIDNEY	KMRC-3	ACH-000313	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male		asian		kidney
+NCIH2023_LUNG	NCI-H2023	ACH-000781	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	26	caucasian		lung_NSC
+DMS153_LUNG	DMS 153	ACH-000594	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	44	caucasian		lung_small_cell
+NCIH1048_LUNG	NCI-H1048	ACH-000866	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female				lung_small_cell
+D341MED_CENTRAL_NERVOUS_SYSTEM	D341 Med	ACH-000095	central_nervous_system	cerebellum	NS	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	NS	male	3.5		medulloblastoma	medulloblastoma
+NCIH660_PROSTATE	NCI-H660	ACH-000177	prostate	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	63	caucasian	small_cell_carcinoma	prostate
+NCIH1618_LUNG	NCI-H1618	ACH-000179	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	55	caucasian		lung_small_cell
+HS675T_FIBROBLAST	Hs 675.T	ACH-000214	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male		caucasian		colorectal
+PEER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PEER	ACH-000519	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	female	4		T-ALL	T-cell_ALL
+SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKM-1	ACH-000373	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male	76	asian		AML
+HT144_SKIN	HT-144	ACH-000322	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	29	caucasian		melanoma
+SKMEL31_SKIN	SK-MEL-31	ACH-000640	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female			malignant_melanoma	melanoma
+HS839T_FIBROBLAST	Hs 839.T	ACH-000180	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	42	caucasian		melanoma
+HS939T_SKIN	Hs 939.T	ACH-000814	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	24	caucasian		melanoma
+OCILY3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-LY3	ACH-000158	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS					lymphoma_DLBCL
+HS819T_FIBROBLAST	Hs 819.T	ACH-000224	bone	NS	NS	NS	chondrosarcoma	NS	NS	NS	male	60	caucasian		chondrosarcoma
+NCIH69_LUNG	NCI-H69	ACH-000358	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	55	caucasian	papillary_adenocarcinoma	lung_small_cell
+DV90_LUNG	DV-90	ACH-000925	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	50		lung_cancer	lung_NSC
+ZR751_BREAST	ZR-75-1	ACH-000097	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	63	caucasian	breast_cancer	breast
+KG1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KG-1	ACH-000386	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	NS	male	59	caucasian		AML
+SKNBE2_AUTONOMIC_GANGLIA	SK-N-BE(2)	ACH-000312	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	2.166666667		neuroblastoma	neuroblastoma
+HCC70_BREAST	HCC70	ACH-000668	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	49	african_american	breast_cancer	breast
+NCIH2452_PLEURA	NCI-H2452	ACH-000092	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male				mesothelioma
+SNU1_STOMACH	SNU-1	ACH-000932	stomach	NS	NS	NS	carcinoma	undifferentiated_adenocarcinoma	NS	NS	male	44	asian	poorly_differentiated_gastric carcinoma	stomach
+LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Loucy	ACH-000104	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	female	38	caucasian		T-cell_ALL
+HCC56_LARGE_INTESTINE	HCC-56	ACH-000467	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS					colorectal
+NCIH1648_LUNG	NCI-H1648	ACH-000766	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	39	african_american	lung_cancer	lung_NSC
+TO175T_FIBROBLAST	TO 175.T	ACH-000125	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	29	caucasian		lymphoma_Hodgkin
+GLC82_LUNG	GLC-82	ACH-001071	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	58	asian		lung_NSC
+MPP89_PLEURA	MPP 89	ACH-000319	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	67			mesothelioma
+PANC0813_PANCREAS	Panc 08.13	ACH-000417	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	85	caucasian		pancreas
+MG63_BONE	MG-63	ACH-000359	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	male	14	caucasian		osteosarcoma
+PK1_PANCREAS	PK-1	ACH-000307	pancreas	NS	NS	NS	carcinoma	NS	NS	NS					pancreas
+HS840T_FIBROBLAST	Hs 840.T	ACH-000284	upper_aerodigestive_tract	pharynx	NS	NS	other	papilloma	NS	NS	male	7	caucasian		upper_aerodigestive
+NCIH23_LUNG	NCI-H23	ACH-000900	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	51	african_american	non_small_cell_lung_cancer	lung_NSC
+TE617T_SOFT_TISSUE	TE 617.T	ACH-000051	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS	female	1.67	caucasian		soft_tissue
+SW1088_CENTRAL_NERVOUS_SYSTEM	SW 1088	ACH-000437	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS	male	72	caucasian	brain_cancer	glioma
+ISTMES2_PLEURA	IST-MES2	ACH-000331	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	71	caucasian		mesothelioma
+NCIH1373_LUNG	NCI-H1373	ACH-000845	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	56	african_american		lung_NSC
+NCIH1930_LUNG	NCI-H1930	ACH-000870	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	41	caucasian		lung_small_cell
+NCIH1623_LUNG	NCI-H1623	ACH-000744	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	58	caucasian		lung_NSC
+HS229T_FIBROBLAST	Hs 229.T	ACH-000131	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	65	caucasian		lung_NSC
+NCIH1838_LUNG	NCI-H1838	ACH-000733	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female				lung_NSC
+NCIH1836_LUNG	NCI-H1836	ACH-000559	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	52	caucasian		lung_small_cell
+HS688AT_FIBROBLAST	Hs 688(A).T	ACH-000306	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	69	caucasian		melanoma
+PANC0504_PANCREAS	Panc 05.04	ACH-000093	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	female	77	caucasian		pancreas
+HS822T_FIBROBLAST	Hs 822.T	ACH-000229	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	female	9	caucasian		Ewings_Sarcoma
+BL70_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BL-70	ACH-000402	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	male	16	caucasian		lymphoma_Burkitt
+CI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CI-1	ACH-000687	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	female	38			lymphoma_other
+G292CLONEA141B1_BONE	G-292, clone A141B1	ACH-000082	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	female	9	caucasian		osteosarcoma
+RCM1_LARGE_INTESTINE	RCM-1	ACH-000565	large_intestine	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	73		rectum; adenocarcinoma; well differentiated	colorectal
+HS737T_FIBROBLAST	Hs 737.T	ACH-000185	bone	NS	NS	NS	giant_cell_tumour	NS	NS	NS	female	10	caucasian		giant_cell_tumour
+HS616T_FIBROBLAST	Hs 616.T	ACH-000063	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	16	caucasian		lymphoma_Hodgkin
+HS600T_FIBROBLAST	Hs 600.T	ACH-000240	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+TE159T_FIBROBLAST	TE 159.T	ACH-000175	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS	male	6	caucasian	rhabdomyosarcoma	soft_tissue
+A101D_SKIN	A101D	ACH-000008	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	56	caucasian		melanoma
+NCIH1755_LUNG	NCI-H1755	ACH-000282	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	65	caucasian		lung_NSC
+143B_BONE	143B	ACH-001001	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	female	13	caucasian		osteosarcoma
+RERFLCKJ_LUNG	RERF-LC-KJ	ACH-000482	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	78		lung_cancer	lung_NSC
+NCIH1693_LUNG	NCI-H1693	ACH-000021	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	55	caucasian		lung_NSC
+SW780_URINARY_TRACT	SW 780	ACH-000384	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	80	caucasian		urinary_tract
+HS683_CENTRAL_NERVOUS_SYSTEM	Hs 683	ACH-000067	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS	male	76	caucasian		glioma
+RKO_LARGE_INTESTINE	RKO	ACH-000943	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS					colorectal
+HS729_SOFT_TISSUE	Hs 729	ACH-000133	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS	male	74	caucasian	rhabdomyosarcoma	soft_tissue
+JHOS2_OVARY	JHOS-2	ACH-000132	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	45	asian		ovary
+MCF7_BREAST	MCF7	ACH-000019	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	69	caucasian	breast_cancer	breast
+U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U-937	ACH-000406	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	37	caucasian	histiocytic_lymphoma	lymphoma_DLBCL
+SKLMS1_SOFT_TISSUE	SK-LMS-1	ACH-000145	soft_tissue	fibrous_tissue_and_uncertain_origin	vulva	NS	sarcoma	NS	NS	NS	female	43	caucasian		soft_tissue
+HUTU80_SMALL_INTESTINE	HuTu 80	ACH-000538	small_intestine	duodenum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	53	caucasian		other
+HCC202_BREAST	HCC202	ACH-000725	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	82	caucasian	ductal_carcinoma	breast
+MEG01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEG-01	ACH-000072	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	male	55			CML
+REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Reh	ACH-000960	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	15	north_african		B-cell_ALL
+ONS76_CENTRAL_NERVOUS_SYSTEM	ONS-76	ACH-000776	central_nervous_system	brain	NS	NS	primitive_neuroectodermal_tumour-medulloblastoma	NS	NS	NS	female	2			medulloblastoma
+RPMI6666_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI 6666	ACH-001182	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoblastoid	B_cell	NS	NS					lymphoma_Hodgkin
+SNUC1_LARGE_INTESTINE	SNU-C1	ACH-000722	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	71	asian		colorectal
+SKNDZ_AUTONOMIC_GANGLIA	SK-N-DZ	ACH-000366	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	female	2	caucasian	neuroblastoma	neuroblastoma
+DMS114_LUNG	DMS 114	ACH-000530	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	68	caucasian	lung_cancer	lung_small_cell
+TT_OESOPHAGUS		ACH-000561													esophagus
+OCILY10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-LY10	ACH-001146	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS					lymphoma_DLBCL
+ST486_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ST486	ACH-000567	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	NS	NS	female				lymphoma_Burkitt
+OC315_OVARY	OC 315	ACH-001144	ovary	NS	NS	NS	carcinoma	serous_carcinoma	NS	NS	female	49			ovary
+OC314_OVARY	OC 314	ACH-000962	ovary	NS	NS	NS	carcinoma	serous_carcinoma	NS	NS	female	39			ovary
+SW1353_BONE	SW 1353	ACH-000418	bone	humerus	NS	NS	chondrosarcoma	NS	NS	NS	female	72	caucasian		chondrosarcoma
+MDAMB157_BREAST	MDA-MB-157	ACH-000621	breast	NS	NS	NS	carcinoma	ductal_carcinoma	medullary	NS	female	44	african_american	breast_cancer	breast
+LN18_CENTRAL_NERVOUS_SYSTEM	LN-18	ACH-000819	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	65	caucasian		glioma
+769P_KIDNEY	769-P	ACH-000411	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	female	63	caucasian	kidney_cancer	kidney
+786O_KIDNEY	786-O	ACH-000649	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male	58	caucasian	kidney_cancer	kidney
+CAOV3_OVARY	Caov-3	ACH-000713	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	54	caucasian		ovary
+HEPG2_LIVER	Hep G2	ACH-000739	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	15	caucasian	liver_cancer	liver
+MOLT4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-4	ACH-001127	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	19		leukaemia	T-cell_ALL
+NCIH524_LUNG	NCI-H524	ACH-000816	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	63	caucasian		lung_small_cell
+NCIH209_LUNG	NCI-H209	ACH-000290	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	55	caucasian	lung_cancer	lung_small_cell
+MIAPACA2_PANCREAS	MIA PaCa-2	ACH-000601	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	65	caucasian		pancreas
+MCAS_OVARY	MCAS	ACH-000796	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female			Ovarian Cancer	ovary
+SBC5_LUNG	SBC-5	ACH-000670	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS				lung_cancer	lung_small_cell
+COLO829_SKIN	COLO 829	ACH-000644	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	45	caucasian		melanoma
+VCAP_PROSTATE	VCaP	ACH-000115	prostate	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	59	caucasian	prostate_cancer	prostate
+COLO704_OVARY	COLO-704	ACH-001042	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	46	caucasian	metastatic_ovarian_cancer	ovary
+IPC298_SKIN	IPC-298	ACH-000915	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	64			melanoma
+CAPAN2_PANCREAS	Capan-2	ACH-000107	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	56	caucasian		pancreas
+EFM192A_BREAST	EFM-192A	ACH-000117	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	46	caucasian	breast_cancer	breast
+HS766T_PANCREAS	Hs 766T	ACH-000178	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	46	caucasian		pancreas
+EFO27_OVARY	EFO-27	ACH-000936	ovary	NS	NS	NS	carcinoma	mucinous_carcinoma	NS	NS	female	36			ovary
+A2780_OVARY	A2780	ACH-000657	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female			ovarian_cancer	ovary
+NCIH196_LUNG	NCI-H196	ACH-000752	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	68	caucasian		lung_small_cell
+IGROV1_OVARY	IGROV1	ACH-000966	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	47		ovarian_cancer	ovary
+NCIH889_LUNG	NCI-H889	ACH-000297	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	69	caucasian		lung_small_cell
+NCIH211_LUNG	NCI-H211	ACH-000639	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	female	50	caucasian		lung_small_cell
+HS571T_OVARY	Hs 571.T	ACH-001092	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female	65	caucasian		ovary
+MDAPCA2B_PROSTATE	MDA PCa 2b	ACH-000952	prostate	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	63	african_american	prostate_cancer	prostate
+SKMEL24_SKIN	SK-MEL-24	ACH-000822	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	67	caucasian		melanoma
+K029AX_SKIN	K029AX	ACH-000404	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS				Skin Cancer	melanoma
+HT1376_URINARY_TRACT	HT-1376	ACH-000724	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	58	caucasian		urinary_tract
+NCIH2171_LUNG	NCI-H2171	ACH-000525	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	50	caucasian		lung_small_cell
+PANC1005_PANCREAS	Panc 10.05	ACH-000060	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male		caucasian		pancreas
+EVSAT_BREAST	EVSA-T	ACH-001065	breast	NS	NS	NS	carcinoma	NS	NS	NS	female				breast
+HS695T_SKIN	Hs 695T	ACH-000799	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	26	caucasian	melanoma	melanoma
+CHL1_SKIN	CHL-1	ACH-001024	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+LOUNH91_LUNG	LOU-NH91	ACH-000176	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	64		Lung Cancer	lung_NSC
+LK2_LUNG	LK-2	ACH-000769	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS				lung_cancer	lung_NSC
+TOV21G_OVARY	TOV-21G	ACH-000885	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	62			ovary
+SKMEL3_SKIN	SK-MEL-3	ACH-000423	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	42	caucasian		melanoma
+ASPC1_PANCREAS	AsPC-1	ACH-000222	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	62	caucasian	pancreatic_cancer	pancreas
+OVSAHO_OVARY	OVSAHO	ACH-000409	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	56	asian	Ovarian Cancer	ovary
+NCIH441_LUNG	NCI-H441	ACH-000638	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+RERFLCSQ1_LUNG	RERF-LC-Sq1	ACH-000442	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	74	asian	Lung Cancer	lung_NSC
+NCIH2030_LUNG	NCI-H2030	ACH-000521	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male				lung_NSC
+HMCB_SKIN	HMCB	ACH-000931	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS				Skin Cancer	melanoma
+FUOV1_OVARY	FU-OV-1	ACH-000574	ovary	NS	NS	NS	carcinoma	serous_carcinoma	NS	NS	female	65	asian	ovarian_cancer	ovary
+MALME3M_SKIN	Malme-3M	ACH-000477	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	43	caucasian	skin_cancer	melanoma
+KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-12-BM	ACH-000380	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	64		Multiple Myeloma	multiple_myeloma
+T98G_CENTRAL_NERVOUS_SYSTEM	T98G	ACH-000571	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	61	caucasian	brain_cancer	glioma
+HL60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HL-60	ACH-000002	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	NS	female	35	caucasian	leukaemia	AML
+DBTRG05MG_CENTRAL_NERVOUS_SYSTEM	DBTRG-05MG	ACH-000863	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female	59	caucasian		glioma
+HEYA8_OVARY	Hey-A8	ACH-000542	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female			Ovarian Cancer	ovary
+NCIH2122_LUNG	NCI-H2122	ACH-000311	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	46	caucasian	lung_cancer	lung_NSC
+MELJUSO_SKIN	MEL-JUSO	ACH-000881	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	58		melanoma	melanoma
+SW620_LARGE_INTESTINE	SW620	ACH-000651	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	51	caucasian	colon_cancer	colorectal
+HCT116_LARGE_INTESTINE	HCT 116	ACH-000971	large_intestine	colon	NS	NS	carcinoma	NS	NS	NS	male			colon_carcinoma	colorectal
+VMRCRCZ_KIDNEY	VMRC-RCZ	ACH-000171	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS			asian		kidney
+DU145_PROSTATE	DU 145	ACH-000979	prostate	NS	NS	NS	carcinoma	NS	NS	NS	male	69	caucasian	prostate_cancer	prostate
+MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MM1-S	ACH-000763	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS				myeloma	multiple_myeloma
+L33_PANCREAS	L3.3	ACH-000685	pancreas	NS	NS	NS	carcinoma	NS	NS	NS				Pancreatic Cancer	pancreas
+SKMEL2_SKIN	SK-MEL-2	ACH-001190	skin	thigh	NS	NS	malignant_melanoma	NS	NS	NS	male	60	caucasian	skin_cancer	melanoma
+A549_LUNG	A549	ACH-000681	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	58	caucasian	lung_cancer	lung_NSC
+A172_CENTRAL_NERVOUS_SYSTEM	A172	ACH-000558	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	53		brain_cancer	glioma
+NCIH1975_LUNG	NCI-H1975	ACH-000587	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female			lung_cancer	lung_NSC
+COLO679_SKIN	COLO-679	ACH-000805	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	47			melanoma
+KP2_PANCREAS	KP-2	ACH-000281	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	female	65	asian	Pancreatic Cancer	pancreas
+HUH1_LIVER	huH-1	ACH-000475	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	35	asian		liver
+MDAMB453_BREAST	MDA-MB-453	ACH-000910	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	48	caucasian	breast_cancer	breast
+PANC0403_PANCREAS	Panc 04.03	ACH-000235	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	70	caucasian		pancreas
+TYKNU_OVARY	TYK-nu	ACH-000430	ovary	NS	NS	NS	carcinoma	undifferentiated_carcinoma	NS	NS	female		asian		ovary
+OVISE_OVARY	OVISE	ACH-000527	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	40	asian	Ovarian Cancer	ovary
+EFM19_BREAST	EFM-19	ACH-000330	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	50	caucasian	breast_cancer	breast
+MELHO_SKIN	MEL-HO	ACH-000450	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female				melanoma
+RL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RL	ACH-000371	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	male	52	caucasian	non-Hodgkins lymphoma	lymphoma_other
+G361_SKIN	G-361	ACH-000572	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	31	caucasian		melanoma
+NCIH647_LUNG	NCI-H647	ACH-000378	lung	NS	NS	NS	carcinoma	mixed_adenosquamous_carcinoma	NS	NS	male	56	caucasian		lung_NSC
+GMS10_CENTRAL_NERVOUS_SYSTEM	GMS-10	ACH-000102	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	49			glioma
+SEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SEM	ACH-000782	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	5			B-cell_ALL
+HLFA_FIBROBLAST	HLF-a	ACH-000797	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	54	african_american		liver
+42MGBA_CENTRAL_NERVOUS_SYSTEM	42-MG-BA	ACH-000323	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	63		Brain Cancer	glioma
+KCIMOH1_PANCREAS	KCI-MOH1	ACH-001098	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	64	caucasian	Pancreatic Cancer	pancreas
+HCC44_LUNG	HCC-44	ACH-000667	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	54	caucasian	lung_cancer	lung_NSC
+KYSE70_OESOPHAGUS	KYSE-70	ACH-000784	oesophagus	middle_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	77	asian		esophagus
+1321N1_CENTRAL_NERVOUS_SYSTEM	1321N1	ACH-001000	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS				Brain Cancer	glioma
+GAMG_CENTRAL_NERVOUS_SYSTEM	GAMG	ACH-000098	central_nervous_system	NS	NS	NS	glioma	NS	NS	NS	female	42			glioma
+NCIH522_LUNG	NCI-H522	ACH-000343	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	60	caucasian	lung_cancer	lung_NSC
+EN_ENDOMETRIUM	EN	ACH-000978	endometrium	NS	NS	NS	carcinoma	NS	NS	NS	female	50	asian	Endometrial Cancer	endometrium
+PK59_PANCREAS	PK-59	ACH-000205	pancreas	NS	NS	NS	carcinoma	NS	NS	NS				Pancreatic Cancer	pancreas
+SNB19_CENTRAL_NERVOUS_SYSTEM	SNB-19	ACH-001198	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male	47		brain_cancer	glioma
+COLO741_SKIN	COLO 741	ACH-000582	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	69		colon_carcinoma and melanoma	melanoma
+HDMYZ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HD-MY-Z	ACH-000190	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS		29			lymphoma_Hodgkin
+NCIH661_LUNG	NCI-H661	ACH-000853	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	43	caucasian	large_cell_lung_cancer	lung_NSC
+LNCAPCLONEFGC_PROSTATE	LNCaP clone FGC	ACH-000977	prostate	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	50	caucasian	prostate_cancer	prostate
+LS411N_LARGE_INTESTINE	LS411N	ACH-000985	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	32	caucasian		colorectal
+HCC78_LUNG	HCC-78	ACH-000562	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	65	caucasian	lung_cancer	lung_NSC
+YKG1_CENTRAL_NERVOUS_SYSTEM	YKG1	ACH-000570	central_nervous_system	temporal_lobe	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female			Brain Cancer	glioma
+ESS1_ENDOMETRIUM	ESS-1	ACH-000913	endometrium	NS	NS	NS	carcinoma	carcinosarcoma-malignant_mesodermal_mixed_tumour	NS	NS	female	76	caucasian		endometrium
+U251MG_CENTRAL_NERVOUS_SYSTEM	U-251 MG	ACH-000232	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS	male			Brain Cancer	glioma
+TE11_OESOPHAGUS	TE-11	ACH-000488	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS		58			esophagus
+KS1_CENTRAL_NERVOUS_SYSTEM	KS-1	ACH-000631	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female				glioma
+HEC1A_ENDOMETRIUM	HEC-1-A	ACH-000954	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	71			endometrium
+TE1_OESOPHAGUS	TE-1	ACH-000647	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male				esophagus
+JHUEM2_ENDOMETRIUM	JHUEM-2	ACH-000909	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	62	asian	Endometrial Cancer	endometrium
+MOGGUVW_CENTRAL_NERVOUS_SYSTEM	MOG-G-UVW	ACH-001126	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS					glioma
+RERFLCAD1_LUNG	RERF-LC-Ad1	ACH-000791	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	70	asian		lung_NSC
+TE5_OESOPHAGUS	TE-5	ACH-000408	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	73			esophagus
+KELLY_AUTONOMIC_GANGLIA	KELLY	ACH-000259	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS				neuroblastoma	neuroblastoma
+NCIH1155_LUNG	NCI-H1155	ACH-000980	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	36	caucasian		lung_NSC
+TE15_OESOPHAGUS	TE-15	ACH-000353	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female				esophagus
+ABC1_LUNG	ABC-1	ACH-000528	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	47		lung_cancer	lung_NSC
+8MGBA_CENTRAL_NERVOUS_SYSTEM	8-MG-BA	ACH-000137	central_nervous_system	frontal_lobe	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female	54	african_american		glioma
+NCIH1703_LUNG	NCI-H1703	ACH-000747	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	54	caucasian	lung_cancer	lung_NSC
+AGS_STOMACH	AGS	ACH-000880	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	54	caucasian		stomach
+QGP1_PANCREAS	QGP-1	ACH-000347	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	61	asian	Pancreatic Cancer	pancreas
+DETROIT562_UPPER_AERODIGESTIVE_TRACT	Detroit 562	ACH-000207	upper_aerodigestive_tract	pharynx	NS	NS	carcinoma	NS	NS	NS	female		caucasian		upper_aerodigestive
+BT474_BREAST	BT-474	ACH-000927	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	60	caucasian	breast_cancer	breast
+ACHN_KIDNEY	ACHN	ACH-000046	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male	22	caucasian	kidney_cancer	kidney
+LOVO_LARGE_INTESTINE	LoVo	ACH-000950	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	56	caucasian	colorectal_cancer	colorectal
+NCIH1581_LUNG	NCI-H1581	ACH-000015	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	44	caucasian		lung_NSC
+SCABER_URINARY_TRACT	SCaBER	ACH-000839	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male	58	african_american		urinary_tract
+SKMEL30_SKIN	SK-MEL-30	ACH-000810	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	67	caucasian		melanoma
+OVKATE_OVARY	OVKATE	ACH-000443	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	40	asian	Ovarian Cancer	ovary
+22RV1_PROSTATE	22Rv1	ACH-000956	prostate	NS	NS	NS	carcinoma	NS	NS	NS	male			prostate_cancer	prostate
+C32_SKIN	C32	ACH-000580	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	53	caucasian		melanoma
+PANC0327_PANCREAS	Panc 03.27	ACH-000139	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	65	caucasian		pancreas
+RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI 8226	ACH-000817	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	61		myeloma	multiple_myeloma
+DLD1_LARGE_INTESTINE	DLD-1	ACH-001061	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male				colorectal
+ES2_OVARY	ES-2	ACH-000906	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	47	african_american	ovarian_cancer	ovary
+NCIH1395_LUNG	NCI-H1395	ACH-000327	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	55	caucasian	lung_cancer	lung_NSC
+NCIH1781_LUNG	NCI-H1781	ACH-000379	lung	NS	NS	NS	carcinoma	bronchioloalveolar_adenocarcinoma	NS	NS	female	66	caucasian		lung_NSC
+LS1034_LARGE_INTESTINE	LS1034	ACH-000252	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	54	caucasian		colorectal
+G402_SOFT_TISSUE	G-402	ACH-000375	soft_tissue	striated_muscle	kidney	NS	rhabdoid_tumour	NS	NS	NS	female	0.75	caucasian	renal_leiomyoblastoma	soft_tissue
+NCIH146_LUNG	NCI-H146	ACH-000506	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	59	caucasian		lung_small_cell
+SW48_LARGE_INTESTINE	SW48	ACH-000958	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	82	caucasian		colorectal
+CHP212_AUTONOMIC_GANGLIA	CHP-212	ACH-000120	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS				neuroblastoma	neuroblastoma
+LS180_LARGE_INTESTINE	LS 180	ACH-000957	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	58	caucasian	colon_cancer	colorectal
+SW403_LARGE_INTESTINE	SW403	ACH-000820	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	51	caucasian		colorectal
+NCIH747_LARGE_INTESTINE	NCI-H747	ACH-000403	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	69	caucasian		colorectal
+RT4_URINARY_TRACT	RT4	ACH-000242	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	papillary_transitional_cell_carcinoma	NS	male	63	caucasian		urinary_tract
+KATOIII_STOMACH	KATO III	ACH-000793	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	55	asian		stomach
+BDCM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BDCM	ACH-000080	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male			acute myelogenous leukemia M5a	B-cell_ALL
+SW1417_LARGE_INTESTINE	SW1417	ACH-000236	large_intestine	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS	female	53	caucasian		colorectal
+SW948_LARGE_INTESTINE	SW948	ACH-000680	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	81	caucasian		colorectal
+HS606T_FIBROBLAST	Hs 606.T	ACH-000540	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	44	caucasian	Breast Cancer	breast
+MDAMB415_BREAST	MDA-MB-415	ACH-000876	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	38	caucasian	breast_adenocarcinoma	breast
+DMS79_LUNG	DMS 79	ACH-000703	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS		65	caucasian		lung_small_cell
+NCIH2106_LUNG	NCI-H2106	ACH-000904	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	58	caucasian		lung_NSC
+SW579_THYROID	SW579	ACH-000163	thyroid	NS	NS	NS	carcinoma	anaplastic_carcinoma	NS	NS	male	59	caucasian	thyroid_squamous_cell_carcinoma	thyroid
+MDAMB468_BREAST	MDA-MB-468	ACH-000849	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	51	african_american	breast_cancer	breast
+NCIH526_LUNG	NCI-H526	ACH-000767	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	55	caucasian	lung_cancer	lung_small_cell
+TOV112D_OVARY	TOV-112D	ACH-000048	ovary	NS	NS	NS	carcinoma	endometrioid_carcinoma	NS	NS	female	42	caucasian	endometrioid_carcinoma	ovary
+BT549_BREAST	BT-549	ACH-000288	breast	NS	NS	NS	carcinoma	ductal_carcinoma	papillary	NS	female	72	caucasian	breast_cancer	breast
+NCIH2196_LUNG	NCI-H2196	ACH-000399	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	67	caucasian		lung_small_cell
+CAL851_BREAST	CAL-85-1	ACH-000857	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	35		breast_cancer	breast
+EFO21_OVARY	EFO-21	ACH-000308	ovary	NS	NS	NS	carcinoma	serous_carcinoma	NS	NS	female	56	caucasian		ovary
+A375_SKIN	A-375	ACH-000219	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	54			melanoma
+HT29_LARGE_INTESTINE	HT-29	ACH-000552	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	44	caucasian	colon_cancer	colorectal
+NCIH446_LUNG	NCI-H446	ACH-000800	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	61	caucasian		lung_small_cell
+HS294T_SKIN	Hs 294T	ACH-000014	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	56	caucasian	melanoma	melanoma
+SKMEL5_SKIN	SK-MEL-5	ACH-000730	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	24	caucasian	skin_cancer	melanoma
+HS944T_SKIN	Hs 944.T	ACH-000632	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	51	caucasian		melanoma
+TCCPAN2_PANCREAS	TCC-PAN2	ACH-000502	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	female	68	asian	Pancreatic Cancer	pancreas
+DOV13_OVARY	DOV13	ACH-001063	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female			Ovarian Cancer	ovary
+RMGI_OVARY	RMG-I	ACH-000719	ovary	NS	NS	NS	carcinoma	clear_cell_carcinoma	NS	NS	female	34			ovary
+PC3_PROSTATE	PC-3	ACH-000090	prostate	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	62	caucasian	prostate_cancer	prostate
+K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K-562	ACH-000551	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	Ph_positive	NS	female	53		leukaemia	CML
+RT112_URINARY_TRACT	RT-112	ACH-000473	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female				urinary_tract
+NUGC3_STOMACH	NUGC-3	ACH-000911	stomach	NS	NS	NS	carcinoma	NS	NS	NS	male	72			stomach
+U87MG_CENTRAL_NERVOUS_SYSTEM	U-87 MG	ACH-000075	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS	female	44	caucasian	brain_cancer	glioma
+CAKI2_KIDNEY	Caki-2	ACH-000234	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male	69	caucasian		kidney
+OE19_OESOPHAGUS	OE19	ACH-000679	oesophagus	lower_third	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	72			esophagus
+KMRC2_KIDNEY	KMRC-2	ACH-000709	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male		asian	Kidney Cancer	kidney
+JHH2_LIVER	JHH-2	ACH-000577	liver	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS	male	57	asian		liver
+IM95_STOMACH	IM95	ACH-000919	stomach	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS	male	63	asian		stomach
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MV-4-11	ACH-000045	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male	10		leukaemia	AML
+WM2664_SKIN	WM-266-4	ACH-001239	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	58		melanoma	melanoma
+KMRC1_KIDNEY	KMRC-1	ACH-000684	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	male			Kidney Cancer	kidney
+KM12_LARGE_INTESTINE	KM12	ACH-000969	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS				colon_cancer	colorectal
+COLO849_SKIN	COLO-849	ACH-001045	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	43	caucasian	Skin Cancer	melanoma
+T84_LARGE_INTESTINE	T84	ACH-000381	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	72			colorectal
+CALU1_LUNG	Calu-1	ACH-000511	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	47	caucasian	lung_cancer	lung_NSC
+LOXIMVI_SKIN	LOX IMVI	ACH-000750	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	58		skin_cancer	melanoma
+NCIH2170_LUNG	NCI-H2170	ACH-000481	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male				lung_NSC
+SQ1_LUNG	Sq-1	ACH-000553	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS				Lung Cancer	lung_NSC
+AN3CA_ENDOMETRIUM	AN3 CA	ACH-000940	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	55	caucasian		endometrium
+NCIH2444_LUNG	NCI-H2444	ACH-000186	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male				lung_NSC
+UACC257_SKIN	UACC-257	ACH-000579	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS				melanoma	melanoma
+KYSE510_OESOPHAGUS	KYSE-510	ACH-000824	oesophagus	upper_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	67	asian		esophagus
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM-13	ACH-000362	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5a	NS	male	20		Leukemia	AML
+HUPT4_PANCREAS	HUP-T4	ACH-000213	pancreas	NS	NS	NS	carcinoma	NS	NS	NS	male	60	asian		pancreas
+MOGGCCM_CENTRAL_NERVOUS_SYSTEM	MOG-G-CCM	ACH-001125	central_nervous_system	brain	NS	NS	glioma	astrocytoma	NS	NS					glioma
+KYSE30_OESOPHAGUS	KYSE-30	ACH-000777	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	64	asian	Esophageal Cancer	esophagus
+KYSE150_OESOPHAGUS	KYSE-150	ACH-000855	oesophagus	upper_third	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	49	asian		esophagus
+PSN1_PANCREAS	PSN1	ACH-000320	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS					pancreas
+NCIH1299_LUNG	NCI-H1299	ACH-000510	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	43	caucasian	lung_cancer	lung_NSC
+PATU8988T_PANCREAS	PA-TU-8988T	ACH-000023	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	64			pancreas
+IGR37_SKIN	IGR-37	ACH-000650	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	male	26		Skin Cancer	melanoma
+LN443_CENTRAL_NERVOUS_SYSTEM	LN-443	ACH-000673	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	male				glioma
+SLR23_KIDNEY	SLR 23	ACH-000246	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+HMEL_BREAST	HMEL	ACH-000642	breast	NS	NS	NS	other	immortalized_epithelial	NS	NS					breast
+OELE_OVARY	OELE	ACH-000494	ovary	NS	NS	NS	other	immortalized_epithelial	NS	NS					ovary
+LN235_CENTRAL_NERVOUS_SYSTEM	LN-235	ACH-000591	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	male				glioma
+BJHTERT_SKIN	BJ hTERT	ACH-001018	skin	foreskin	NS	NS	other	immortalized_fibroblast	NS	NS					melanoma
+LN428_CENTRAL_NERVOUS_SYSTEM	LN-428	ACH-000455	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	male				glioma
+SLR24_KIDNEY	SLR 24	ACH-000272	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+EWS502_BONE	EWS502	ACH-000279	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS					Ewings_Sarcoma
+SALE_LUNG	SALE	ACH-000064	lung	NS	NS	NS	other	immortalized_epithelial	NS	NS					
+HCC2814_LUNG	HCC-2814	ACH-000690	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					lung_NSC
+SKRC31_KIDNEY	SK-RC 31	ACH-001194	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+TIG3TD_FIBROBLAST	TIG-3 TD	ACH-001207	lung	NS	NS	NS	other	immortalized_embryonic_fibroblast	NS	NS					
+TC32_BONE	TC-32	ACH-001205	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	female				Ewings_Sarcoma
+SF172_CENTRAL_NERVOUS_SYSTEM	SF-172	ACH-000887	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	female				glioma
+PRECLH_PROSTATE	PrEC LH	ACH-000170	prostate	NS	NS	NS	other	immortalized_epithelial	NS	NS					prostate
+U343_CENTRAL_NERVOUS_SYSTEM	U343	ACH-000036	central_nervous_system	NS	NS	NS	glioma	astrocytoma_Grade_III	NS	NS					glioma
+RCC4_KIDNEY	RCC-4	ACH-001175	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS					kidney
+LN215_CENTRAL_NERVOUS_SYSTEM	LN-215	ACH-000328	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS					glioma
+LN464_CENTRAL_NERVOUS_SYSTEM	LN-464	ACH-000676	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	male				glioma
+SLR25_KIDNEY	SLR 25	ACH-000300	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+U178_CENTRAL_NERVOUS_SYSTEM	U-178	ACH-000208	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	male				glioma
+F5_CENTRAL_NERVOUS_SYSTEM	F5	ACH-001067	central_nervous_system	meninges	NS	NS	meningioma	NS	NS	NS	male				meningioma
+HEKTE_KIDNEY	HEK TE	ACH-000049	kidney	NS	NS	NS	other	immortalized_epithelial	NS	NS					kidney
+SLR26_KIDNEY	SLR 26	ACH-000600	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+SKRC20_KIDNEY	SK-RC-20	ACH-000385	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS					kidney
+SF767_CERVIX	SF767	ACH-000490	central_nervous_system	NS	NS	NS	glioma	astrocytoma_Grade_III-IV	NS	NS	female				glioma
+A1207_CENTRAL_NERVOUS_SYSTEM	A1207	ACH-000283	central_nervous_system	NS	NS	NS	glioma	NS	NS	NS	female				glioma
+LN319_CENTRAL_NERVOUS_SYSTEM	LN-319	ACH-000128	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_III	NS	NS	male				glioma
+HCC364_LUNG	HCC364	ACH-000575	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+UMRC6_KIDNEY	UMRC6	ACH-001225	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+LN382_CENTRAL_NERVOUS_SYSTEM	LN382	ACH-000215	central_nervous_system	NS	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	male				glioma
+IOMMLEE_CENTRAL_NERVOUS_SYSTEM	IOMM-Lee	ACH-000629	central_nervous_system	meninges	NS	NS	meningioma	NS	NS	NS					meningioma
+UMRC2_KIDNEY	UMRC2	ACH-001224	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS					kidney
+DFCI024_LUNG	DFCI024	ACH-001058	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS					lung_NSC
+HCC1897_LUNG	HCC-1897	ACH-001079	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					lung_NSC
+SLR21_KIDNEY	SLR 21	ACH-000016	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+LNZ308_CENTRAL_NERVOUS_SYSTEM	LNZ308	ACH-000760	central_nervous_system	NS	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	female				glioma
+LN340_CENTRAL_NERVOUS_SYSTEM	LN-340	ACH-000634	central_nervous_system	brain	NS	NS	glioma	astrocytoma_Grade_IV	NS	NS	male				glioma
+HCC827GR5_LUNG	HCC827 GR5	ACH-000029	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS					lung_NSC
+SLR20_KIDNEY	SLR 20	ACH-000127	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS					kidney
+HK2_KIDNEY	HK-2	ACH-001087	kidney	NS	NS	NS	other	immortalized_epithelial	NS	NS					kidney
+EW8_BONE	EW8	ACH-000499	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS					Ewings_Sarcoma
+UOK101_KIDNEY	UOK101	ACH-000262	kidney	NS	NS	NS	carcinoma	clear_cell_renal_cell_carcinoma	NS	NS	female				kidney
+JHESOAD1_OESOPHAGUS	JH-EsoAd1	ACH-000216	oesophagus	NS	NS	NS	carcinoma	barrett_associated_adenocarcinoma	NS	NS	male				
+CH157MN_CENTRAL_NERVOUS_SYSTEM	CH-157MN	ACH-000025	central_nervous_system	meninges	NS	NS	meningioma	NS	NS	NS					meningioma
+MOLP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP-2	ACH-000453	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	55			multiple_myeloma
+SCC25_UPPER_AERODIGESTIVE_TRACT	SCC-25	ACH-000188	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	70			upper_aerodigestive
+UT7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	UT-7	ACH-001230	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	NS	male	64			AML
+MHHNB11_AUTONOMIC_GANGLIA	MHH-NB-11	ACH-000078	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	4	caucasian		neuroblastoma
+HCC1806_BREAST	HCC1806	ACH-000624	breast	NS	NS	NS	carcinoma	ductal_carcinoma	squamous_cell_carcinoma	NS	female	60	african_american	breast_cancer	breast
+GRANTA519_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GRANTA-519	ACH-000073	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	mantle_cell_lymphoma	NS	NS	female	58	caucasian	mantle_cell_lymphoma	lymphoma_other
+MONOMAC6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MONO-MAC-6	ACH-000006	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male	64			AML
+MKN7_STOMACH	MKN7	ACH-000678	stomach	NS	NS	NS	carcinoma	tubular_adenocarcinoma	NS	NS	male	39	asian		stomach
+SW1710_URINARY_TRACT	SW-1710	ACH-000566	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	84	caucasian		urinary_tract
+MOLT13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-13	ACH-000795	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	L2	NS	female	2			T-cell_ALL
+SR786_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SR-786	ACH-000338	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	NS	male	11		anaplastic_large_cell_lymphoma	lymphoma_other
+SCC15_UPPER_AERODIGESTIVE_TRACT	SCC-15	ACH-000254	upper_aerodigestive_tract	mouth	tongue	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	55			upper_aerodigestive
+RS5_FIBROBLAST	RS-5	ACH-000531	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	78			mesothelioma
+NCIH2126_LUNG	NCI-H2126	ACH-000785	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	65	caucasian	lung_cancer	lung_NSC
+NCIH2141_LUNG	NCI-H2141	ACH-001138	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	58	caucasian		lung_small_cell
+NCIH1385_LUNG	NCI-H1385	ACH-000737	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS					lung_NSC
+HCC827_LUNG	HCC827	ACH-000012	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	39	caucasian	lung_cancer	lung_NSC
+RD_SOFT_TISSUE	RD	ACH-000169	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	embryonal	NS	NS	female	7	caucasian		soft_tissue
+TT_THYROID	TT	ACH-001321	thyroid	NS	NS	NS	carcinoma	medullary_carcinoma	NS	NS	female	77	caucasian	medulla_carcinoma	thyroid
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TF-1	ACH-000387	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	NS	male	35	asian		AML
+HS172T_FIBROBLAST	Hs 172.T	ACH-000088	urinary_tract	bladder	NS	NS	carcinoma	NS	NS	NS	male	50	caucasian		urinary_tract
+HS834T_FIBROBLAST	Hs 834.T	ACH-000275	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+TE125T_FIBROBLAST	TE 125.T	ACH-000079	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS	female	1	caucasian		soft_tissue
+8305C_THYROID	8305C	ACH-001306	thyroid	NS	NS	NS	carcinoma	anaplastic_carcinoma	NS	NS	female	67			thyroid
+UACC812_BREAST	UACC-812	ACH-000568	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	43		invasive_ductal_carcinoma	breast
+ALLSIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ALL-SIL	ACH-000105	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	17		TALL	T-cell_ALL
+KASUMI2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI-2	ACH-000728	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	L2	NS	male	15		acute lymphoblastic leukemia	leukemia_other
+DND41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DND-41	ACH-000981	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	13		TALL	T-cell_ALL
+ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ME-1	ACH-000439	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	NS	male	40	asian		AML
+DM3_FIBROBLAST	DM-3	ACH-000742	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	62			mesothelioma
+JEKO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JeKo-1	ACH-000357	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	mantle_cell_lymphoma	NS	NS	female	78		mantle_cell_lymphoma	lymphoma_other
+JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JJN-3	ACH-000653	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	57		multiple_myeloma	multiple_myeloma
+NUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NU-DHL-1	ACH-000388	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	73	caucasian		lymphoma_DLBCL
+CL14_LARGE_INTESTINE	CL-14	ACH-000342	large_intestine	colon	sigmoid	NS	carcinoma	NS	NS	NS	male				colorectal
+KYO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KYO-1	ACH-000604	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	male	22	asian		CML
+JL1_PLEURA	JL-1	ACH-000645	pleura	NS	NS	NS	mesothelioma	NS	NS	NS	male	54			mesothelioma
+CAL148_BREAST	CAL-148	ACH-000902	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	58		breast_cancer	breast
+NALM19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM-19	ACH-000130	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male	26			B-cell_ALL
+HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HPB-ALL	ACH-000942	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	14	asian	TALL	T-cell_ALL
+SUPT11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-T11	ACH-000122	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	peripheral_T_cell_lymphoma_unspecified	NS	NS	male	74			lymphoma_other
+CL40_LARGE_INTESTINE	CL-40	ACH-000798	large_intestine	colon	right	NS	carcinoma	NS	NS	NS	female				colorectal
+MDAMB134VI_BREAST	MDA-MB-134-VI	ACH-000044	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	47	caucasian	invasive_ductal_carcinoma	breast
+HCC1500_BREAST	HCC1500	ACH-000349	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	32	african_american	ductal_carcinoma	breast
+HCC1599_BREAST	HCC1599	ACH-000196	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	44	caucasian		breast
+SUPHD1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-HD1	ACH-001203	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	37			lymphoma_Hodgkin
+MOTN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOTN-1	ACH-001130	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	T_cell_large_granular_lymphocytic_leukaemia	NS	NS	female	65			lymphoma_other
+OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-AML3	ACH-000336	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	NS	male	57			AML
+SUDHL10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-10	ACH-000271	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	25		diffuse_histiocytic_lymphoma	lymphoma_DLBCL
+SUDHL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-4	ACH-000365	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	38		diffuse_histiocytic_lymphoma	lymphoma_DLBCL
+RH41_SOFT_TISSUE	RH-41	ACH-000100	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	alveolar	NS	NS	female				soft_tissue
+OCILY19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-LY-19	ACH-000124	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	female	27		germinal center B-cell-like (GCB) DLBCL	lymphoma_DLBCL
+MOLM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM-6	ACH-000321	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	male	44			CML
+SKMM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SK-MM-2	ACH-000363	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	54			multiple_myeloma
+KASUMI6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Kasumi-6	ACH-000166	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M2	NS	male	64	asian		AML
+HS698T_FIBROBLAST	Hs 698.T	ACH-000850	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	70	american_indian		colorectal
+UACC893_BREAST	UACC-893	ACH-000554	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	57	caucasian	breast_cancer	breast
+MINO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Mino	ACH-000220	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	mantle_cell_lymphoma	NS	NS	male	64	caucasian	mantle_cell_lymphoma	lymphoma_other
+CHP126_AUTONOMIC_GANGLIA	CHP-126	ACH-000136	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	female	1.166666667		neuroblastoma	neuroblastoma
+COLO680N_OESOPHAGUS	COLO-680N	ACH-000717	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	female	57	african_american		esophagus
+COLO678_LARGE_INTESTINE	COLO-678	ACH-000350	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	69			colorectal
+LAMA84_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LAMA-84	ACH-000301	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	female	29			CML
+CMLT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CML-T1	ACH-000920	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	female	36			CML
+EHEB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EHEB	ACH-000038	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	NS	female	69			lymphoma_other
+CAL54_KIDNEY	CAL-54	ACH-000457	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male	75			kidney
+BV173_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BV-173	ACH-000432	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	male	45			CML
+DOHH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DOHH-2	ACH-000056	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	60			lymphoma_DLBCL
+EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EOL-1	ACH-000198	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male	33			AML
+NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM-6	ACH-000938	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male	19			B-cell_ALL
+VMCUB1_URINARY_TRACT	VM-CUB1	ACH-000545	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male				urinary_tract
+LP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LP-1	ACH-000204	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	56		multiple_myeloma	multiple_myeloma
+LXF289_LUNG	LXF-289	ACH-000787	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	63			lung_NSC
+MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MONO-MAC-1	ACH-001129	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	male	64			AML
+PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PL-21	ACH-000218	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M3	NS	male	24			AML
+PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PF-382	ACH-000937	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	female	6		TALL	T-cell_ALL
+NALM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM-1	ACH-000462	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	female	3			CML
+OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-AML2	ACH-000113	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	NS	male	65			AML
+MHHCALL3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHH-CALL-3	ACH-000032	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	11			B-cell_ALL
+JURLMK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JURL-MK1	ACH-000326	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	male	73			CML
+OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-AML5	ACH-000065	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	NS	male	77			AML
+KE37_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KE-37	ACH-000101	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	27			leukemia_other
+JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JK-1	ACH-000241	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	male	62			CML
+RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RI-1	ACH-000398	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	female	57		b_cell_non_hodgkin_lymphoma	lymphoma_other
+KARPAS422_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS-422	ACH-000315	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	female	73			lymphoma_DLBCL
+L540_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-540	ACH-000806	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	female	20			lymphoma_Hodgkin
+CAL78_BONE	CAL-78	ACH-000516	bone	NS	NS	NS	chondrosarcoma	dedifferentiated	NS	NS	male	76		chondrosarcoma	chondrosarcoma
+HDQP1_BREAST	HDQ-P1	ACH-000643	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	50	caucasian	breast_cancer	breast
+MHHCALL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHH-CALL-4	ACH-000156	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male	10	caucasian		B-cell_ALL
+MUTZ5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MUTZ-5	ACH-000492	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male	26			B-cell_ALL
+ONCODG1_OVARY	ONCO-DG-1	ACH-000013	ovary	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	60	caucasian	ovarian_cancer	ovary
+HDLM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HDLM-2	ACH-000267	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	74			lymphoma_Hodgkin
+CAL29_URINARY_TRACT	CAL-29	ACH-000142	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	80			urinary_tract
+KOPN8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KOPN-8	ACH-001106	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	0.25			B-cell_ALL
+SCLC21H_LUNG	SCLC-21H	ACH-000659	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	46	caucasian		lung_small_cell
+CALU3_LUNG	Calu-3	ACH-000392	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	25	caucasian	lung_cancer	lung_NSC
+NCIH1435_LUNG	NCI-H1435	ACH-000852	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female	35			lung_NSC
+NCIH2009_LUNG	NCI-H2009	ACH-000886	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	68	caucasian	lung_cancer	lung_NSC
+NCIH1869_LUNG	NCI-H1869	ACH-000894	lung	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	58	caucasian		lung_NSC
+HS852T_SKIN	Hs 852.T	ACH-000274	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS					melanoma
+HCC1419_BREAST	HCC1419	ACH-000277	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	42		breast_cancer	breast
+BT483_BREAST	BT-483	ACH-000818	breast	NS	NS	NS	carcinoma	ductal_carcinoma	medullary	NS	female	23	caucasian	breast_cancer	breast
+HS281T_FIBROBLAST	Hs 281.T	ACH-000083	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	37	caucasian		breast
+HS934T_FIBROBLAST	Hs 934.T	ACH-000194	skin	NS	NS	NS	malignant_melanoma	NS	NS	NS	female	58	caucasian		melanoma
+HCC4006_LUNG	HCC4006	ACH-000066	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male		caucasian	lung_cancer	lung_NSC
+HCC1428_BREAST	HCC1428	ACH-000352	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	49	caucasian	breast_cancer	breast
+KU812_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KU812	ACH-000074	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	chronic_myeloid_leukaemia	Ph_positive	NS	male	38	asian		CML
+SHP77_LUNG	SHP-77	ACH-000790	lung	left_upper_lobe	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	54	caucasian		lung_small_cell
+TE441T_SOFT_TISSUE	TE 441.T	ACH-000772	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	NS	NS	NS	female	14	african_american		soft_tissue
+NB1_AUTONOMIC_GANGLIA	NB-1	ACH-000804	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	2		neuroblastoma	neuroblastoma
+HS274T_FIBROBLAST	Hs 274.T	ACH-000134	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	66	caucasian		breast
+PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Pfeiffer	ACH-000140	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male		caucasian		lymphoma_DLBCL
+ZR7530_BREAST	ZR-75-30	ACH-000828	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	47	african_american	breast_cancer	breast
+HS863T_FIBROBLAST	Hs 863.T	ACH-000119	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	female	5	caucasian		Ewings_Sarcoma
+NCIH841_LUNG	NCI-H841	ACH-000292	lung	NS	NS	NS	carcinoma	small_cell_carcinoma	NS	NS	male	51	caucasian		lung_small_cell
+HS821T_FIBROBLAST	Hs 821.T	ACH-000526	bone	NS	NS	NS	giant_cell_tumour	NS	NS	NS	female	31	caucasian		giant_cell_tumour
+NCIH1944_LUNG	NCI-H1944	ACH-000414	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	female	62	caucasian		lung_NSC
+NCIH2405_LUNG	NCI-H2405	ACH-000121	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	47	caucasian		lung_NSC
+DEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DEL	ACH-000233	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	NS	NS	NS	male	12			lymphoma_other
+BEN_LUNG	BEN	ACH-000603	lung	NS	NS	NS	carcinoma	NS	NS	NS	male	71			lung_NSC
+COLO320_LARGE_INTESTINE	COLO-320	ACH-000202	large_intestine	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS	female	55	caucasian		colorectal
+RPMI8402_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI-8402	ACH-000636	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	female	16		TALL	T-cell_ALL
+SUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-1	ACH-000664	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	NS	NS	male	10		anaplastic_large_cell_lymphoma	lymphoma_other
+P12ICHIKAWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P12-ICHIKAWA	ACH-000372	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	7		TALL	T-cell_ALL
+BFTC905_URINARY_TRACT	BFTC-905	ACH-000802	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	papillary_transitional_cell_carcinoma	NS	female	51	asian		urinary_tract
+BFTC909_KIDNEY	BFTC-909	ACH-000792	kidney	NS	NS	NS	carcinoma	NS	NS	NS	male	64	asian		kidney
+MHHES1_BONE	MHH-ES-1	ACH-000391	bone	pelvis	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	male	12	turkish		Ewings_Sarcoma
+JVM3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JVM-3	ACH-000346	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	NS	male	73			lymphoma_other
+NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NOMO-1	ACH-000168	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5	NS	female	31			AML
+NCIH727_LUNG	NCI-H727	ACH-000775	lung	bronchus	NS	NS	carcinoid-endocrine_tumour	NS	NS	NS	female	65	caucasian		other
+HS343T_FIBROBLAST	Hs 343.T	ACH-000184	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	47	caucasian		breast
+HCC2935_LUNG	HCC2935	ACH-000150	lung	NS	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	male	39	caucasian	lung_cancer	lung_NSC
+HS888T_FIBROBLAST	Hs 888.T	ACH-000154	bone	NS	NS	NS	osteosarcoma	NS	NS	NS	male	20	caucasian		osteosarcoma
+MKN45_STOMACH	MKN-45	ACH-000356	stomach	NS	NS	NS	carcinoma	diffuse_adenocarcinoma	NS	NS	female	62	asian		stomach
+8505C_THYROID	8505C	ACH-001307	thyroid	NS	NS	NS	carcinoma	anaplastic_carcinoma	NS	NS	female	78			thyroid
+KU1919_URINARY_TRACT	KU-19-19	ACH-000486	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male	76			urinary_tract
+KCL22_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KCL-22	ACH-000983	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	female	32			CML
+CADOES1_BONE	CADO-ES1	ACH-000210	bone	NS	NS	NS	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	female	19	asian	Ewings_sarcoma	Ewings_Sarcoma
+S117_THYROID	S-117	ACH-000037	soft_tissue	fibrous_tissue_and_uncertain_origin	thyroid	NS	sarcoma	NS	NS	NS	female	47			soft_tissue
+EM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EM-2	ACH-000295	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	blast_phase_chronic_myeloid_leukaemia	NS	NS	female	5	caucasian		CML
+OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OPM-2	ACH-000024	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	56		multiple_myeloma	multiple_myeloma
+CAL62_THYROID	CAL-62	ACH-000174	thyroid	NS	NS	NS	carcinoma	anaplastic_carcinoma	NS	NS	female	70			thyroid
+LCLC103H_LUNG	LCLC-103H	ACH-000627	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	61	caucasian		lung_NSC
+JURKAT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JURKAT	ACH-000995	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	14		TALL	T-cell_ALL
+697_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	697	ACH-000070	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	male	12			leukemia_other
+MHHCALL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHH-CALL-2	ACH-000020	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	15	caucasian		B-cell_ALL
+M07E_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	M-07e	ACH-000602	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M7	NS	female	0.5			AML
+L428_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-428	ACH-000754	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	female	37		lymphoma	lymphoma_Hodgkin
+MOLT16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-16	ACH-000918	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	female	5			T-cell_ALL
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NB-4	ACH-000294	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M3	NS	female	23			AML
+LCLC97TM1_LUNG	LCLC-97TM1	ACH-000596	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS	male	44	caucasian		lung_NSC
+2313287_STOMACH	23132/87	ACH-000948	stomach	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	72			stomach
+BHT101_THYROID	BHT-101	ACH-000191	thyroid	NS	NS	NS	carcinoma	anaplastic_carcinoma	NS	NS	female	63			thyroid
+JVM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JVM-2	ACH-000106	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	NS	female	63		B-prolymphocytic_leukemia	lymphoma_other
+CAL51_BREAST	CAL-51	ACH-000856	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	45		breast_cancer	breast
+L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-363	ACH-000183	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	36		plasma_cell_leukemia	multiple_myeloma
+KMH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KM-H2	ACH-000815	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	Hodgkin_lymphoma	NS	NS	male	37		lymphoma	lymphoma_Hodgkin
+SIMA_AUTONOMIC_GANGLIA	SIMA	ACH-000099	autonomic_ganglia	NS	NS	NS	neuroblastoma	NS	NS	NS	male	1.6666	caucasian		neuroblastoma
+NUDUL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NU-DUL-1	ACH-000287	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	male	43	caucasian		lymphoma_other
+BC3C_URINARY_TRACT	BC-3C	ACH-000593	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	82	caucasian		urinary_tract
+SUDHL6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-6	ACH-000611	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	43		B-cell non-Hodgkin lymphoma	lymphoma_DLBCL
+KARPAS620_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS-620	ACH-000193	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	77		plasma_cell_leukemia	multiple_myeloma
+REC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	REC-1	ACH-000068	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	mantle_cell_lymphoma	NS	NS	male	61		mantle_cell_lymphoma	lymphoma_other
+OCIM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-M1	ACH-000751	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	NS		62			AML
+MEC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEC-1	ACH-000405	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	NS	male	61	caucasian	lymphoma	lymphoma_other
+SIGM5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SIG-M5	ACH-000112	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5a	NS	male	63			AML
+SUDHL5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-5	ACH-000660	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	female	17		B-cell non-Hodgkin lymphoma	lymphoma_DLBCL
+BCPAP_THYROID	B-CPAP	ACH-000456	thyroid	NS	NS	NS	carcinoma	papillary_carcinoma	NS	NS	female	76			thyroid
+639V_URINARY_TRACT	639-V	ACH-000973	urinary_tract	ureter	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male	69	caucasian		urinary_tract
+CL11_LARGE_INTESTINE	CL-11	ACH-000249	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS					colorectal
+TT2609C02_THYROID	TT2609-C02	ACH-000716	thyroid	NS	NS	NS	carcinoma	follicular_carcinoma	NS	NS	male	57	caucasian		thyroid
+MEC2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEC-2	ACH-001121	haematopoietic_and_lymphoid_tissue	lymph_node	NS	NS	lymphoid_neoplasm	chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma	NS	NS	male	62	caucasian	lymphoma	lymphoma_other
+CL34_LARGE_INTESTINE	CL-34	ACH-000895	large_intestine	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female				colorectal
+RCHACV_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RCH-ACV	ACH-000922	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	NS	NS	female	8		acute lymphoblastic leukemia	leukemia_other
+CAL120_BREAST	CAL-120	ACH-000212	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	43		breast_cancer	breast
+647V_URINARY_TRACT	647-V	ACH-000896	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	male				urinary_tract
+RH18_SOFT_TISSUE	RH-18	ACH-000689	soft_tissue	striated_muscle	abdomen	NS	rhabdomyosarcoma	alveolar	NS	NS	female	2			soft_tissue
+MOLM16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM-16	ACH-000369	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M0	NS	female	77	asian		AML
+F36P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	F-36P	ACH-000487	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M6	NS	male	68			AML
+EJM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EJM	ACH-000821	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	58			multiple_myeloma
+WSUDLCL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	WSU-DLCL2	ACH-000534	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	NS	NS	male	41	caucasian	diffuse large cell lymphoma non-cleaved type	lymphoma_DLBCL
+JIMT1_BREAST	JIMT-1	ACH-000711	breast	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	female	62		breast_cancer	breast
+ML1_THYROID	ML-1	ACH-000058	thyroid	NS	NS	NS	carcinoma	follicular_carcinoma	NS	NS					thyroid
+AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AMO-1	ACH-000838	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	female	64		multiple_myeloma	multiple_myeloma
+MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP-8	ACH-000745	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	plasma_cell_myeloma	NS	NS	male	52	asian		multiple_myeloma
+COLO699_LUNG	COLO-699	ACH-001041	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	57		lung_cancer	lung_NSC
+JHUEM7_ENDOMETRIUM	JHUEM-7	ACH-000993	endometrium	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	58	asian		endometrium
+KP1NL_PANCREAS	KP-1NL	ACH-001108	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	69		Pancreatic Cancer	pancreas
+KP1N_PANCREAS	KP-1N	ACH-001107	pancreas	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS	male	69	asian		pancreas
+M059J_CENTRAL_NERVOUS_SYSTEM		ACH-001118													
+MB157_BREAST	MB 157	ACH-001120	breast	NS	NS	NS	carcinoma	NS	NS	NS	female	48	african_american		breast
+OE21_OESOPHAGUS	OE21	ACH-000544	oesophagus	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	74		oesophageal squamous cell carcinoma	esophagus
+SF8657_SKIN	SF8657	ACH-001187	skin	NS	NS	NS					male	63	asian	stomach cancer	melanoma
+SNUC2B_LARGE_INTESTINE	SNU-C2B	ACH-001199	large_intestine	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	43			colorectal
+NCIH2073_LUNG	NCI-H2073	ACH-000590	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS	female	47	caucasian		lung_NSC
+HN_UPPER_AERODIGESTIVE_TRACT	HN	ACH-001090	upper_aerodigestive_tract	mouth	mouth_roof	NS	carcinoma	squamous_cell_carcinoma	NS	NS	male	60	asian		upper_aerodigestive
+HRT18_LARGE_INTESTINE	HRT-18	ACH-001091	large_intestine	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS	male	67		colon_cancer	colorectal
+HNT34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-000299													
+PLB985_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PLB-985	ACH-000034	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	NS					AML
+SKNO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKNO-1	ACH-001656	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	NS	NS					AML
+MOLT3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-3	ACH-000964	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	NS	NS	male	19		leukaemia	T-cell_ALL
+HOP62_LUNG	HOP-62	ACH-000861	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+EKVX_LUNG	EKVX	ACH-000706	lung	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS					lung_NSC
+OVCAR5_OVARY	OVCAR-5	ACH-001151	ovary	NS	NS	NS	carcinoma	NS	NS	NS	female				ovary
+UO31_KIDNEY	UO-31	ACH-000428	kidney	NS	NS	NS	carcinoma	renal_cell_carcinoma	NS	NS	male				kidney
+TK10_KIDNEY		ACH-001208													
+SF268_CENTRAL_NERVOUS_SYSTEM	SF268	ACH-000655	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS					glioma
+SF539_CENTRAL_NERVOUS_SYSTEM	SF539	ACH-000273	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS					glioma
+SNB75_CENTRAL_NERVOUS_SYSTEM	SNB75	ACH-000504	central_nervous_system	brain	NS	NS	glioma	NS	NS	NS					glioma
+HOP92_LUNG	HOP-92	ACH-000825	lung	NS	NS	NS	carcinoma	large_cell_carcinoma	NS	NS					lung_NSC
+ACCS_URINARY_TRACT	ACCS	ACH-001011	urinary_tract	bladder	NS	NS	carcinoma	transitional_cell_carcinoma	NS	NS	female	81	caucasian	transitional_cell_carcinoma	urinary_tract
+MUTZ3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MUTZ-3	ACH-000084	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M4	NS	male	29			AML
+A427_LUNG		ACH-000757													
+BT12_SOFT_TISSUE		ACH-000160													
+C8166_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-000206													
+CACO2_LARGE_INTESTINE		ACH-000003													
+HCC2429_LUNG		ACH-000143													
+HCC2450_LUNG		ACH-000975													
+HCC461_LUNG		ACH-000339													
+HCC515_LUNG		ACH-000872													
+INA6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-000512													
+KD_SOFT_TISSUE		ACH-001099													
+KPMRTRY_SOFT_TISSUE		ACH-001109													
+MON_SOFT_TISSUE		ACH-001128													
+NCIH2004RT_SOFT_TISSUE		ACH-000533													
+NCIH2077_LUNG		ACH-000010													
+NCIH2882_LUNG		ACH-000700													
+NCIH2887_LUNG		ACH-000251													
+NCIH1819_LUNG		ACH-000033													
+NCIH3122_LUNG		ACH-000337													
+NHAHTDD_CENTRAL_NERVOUS_SYSTEM		ACH-001142													
+OCIMY5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-000854													
+OCIMY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-000436													
+OPM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-000057													
+PC9_LUNG		ACH-000779													
+SKNEP1_BONE		ACH-001192													
+SKPNDW_BONE		ACH-001193													
+STM9101_SOFT_TISSUE		ACH-001200													
+SIHA_CERVIX		ACH-000556													
+TM87_SOFT_TISSUE		ACH-000172													
+TTC709_SOFT_TISSUE		ACH-000597													
+TTC1240_SOFT_TISSUE		ACH-001210													
+TTC549_SOFT_TISSUE		ACH-001211													
+TTC642_SOFT_TISSUE		ACH-001212													
+BT16_SOFT_TISSUE		ACH-001020													
+CW9019_SOFT_TISSUE		ACH-001050													
+D384_CENTRAL_NERVOUS_SYSTEM		ACH-001052													
+D425_CENTRAL_NERVOUS_SYSTEM		ACH-001053													
+D458_CENTRAL_NERVOUS_SYSTEM		ACH-001054													
+D556_CENTRAL_NERVOUS_SYSTEM		ACH-001055													
+JR_SOFT_TISSUE		ACH-001096													
+MKL1_SKIN		ACH-001122													
+MKL2_SKIN		ACH-001123													
+PETA_SKIN		ACH-001170													
+SMSCTR_SOFT_TISSUE		ACH-001196													
+SUMB002_CENTRAL_NERVOUS_SYSTEM		ACH-001201													
+BB30HNC_UPPER_AERODIGESTIVE_TRACT		ACH-002212													
+BB49HNC_UPPER_AERODIGESTIVE_TRACT		ACH-002213													
+BICR10_UPPER_AERODIGESTIVE_TRACT		ACH-001331													
+BICR78_UPPER_AERODIGESTIVE_TRACT		ACH-001332													
+CA922_UPPER_AERODIGESTIVE_TRACT		ACH-002043													
+DOK_UPPER_AERODIGESTIVE_TRACT		ACH-002234													
+H3118_UPPER_AERODIGESTIVE_TRACT		ACH-002239													
+HO1N1_UPPER_AERODIGESTIVE_TRACT		ACH-002244													
+HO1U1_UPPER_AERODIGESTIVE_TRACT		ACH-002045													
+JHU011_UPPER_AERODIGESTIVE_TRACT		ACH-002249													
+JHU022_UPPER_AERODIGESTIVE_TRACT		ACH-002250													
+KON_UPPER_AERODIGESTIVE_TRACT		ACH-001542													
+KOSC2_UPPER_AERODIGESTIVE_TRACT		ACH-002260													
+LB771HNC_UPPER_AERODIGESTIVE_TRACT		ACH-002265													
+OSC19_UPPER_AERODIGESTIVE_TRACT		ACH-001625													
+OSC20_UPPER_AERODIGESTIVE_TRACT		ACH-001626													
+PCI15A_UPPER_AERODIGESTIVE_TRACT		ACH-002294													
+PCI30_UPPER_AERODIGESTIVE_TRACT		ACH-002295													
+PCI38_UPPER_AERODIGESTIVE_TRACT		ACH-002296													
+PCI4B_UPPER_AERODIGESTIVE_TRACT		ACH-002297													
+PCI6A_UPPER_AERODIGESTIVE_TRACT		ACH-002298													
+RPMI2650_UPPER_AERODIGESTIVE_TRACT		ACH-001385													
+SAS_UPPER_AERODIGESTIVE_TRACT		ACH-002029													
+SAT_UPPER_AERODIGESTIVE_TRACT		ACH-001641													
+SKN3_UPPER_AERODIGESTIVE_TRACT		ACH-002305													
+ESO26_OESOPHAGUS		ACH-001496													
+ESO51_OESOPHAGUS		ACH-001497													
+FLO1_OESOPHAGUS		ACH-001500													
+HCE4_OESOPHAGUS		ACH-002243													
+KYAE1_OESOPHAGUS		ACH-001544													
+KYSE220_OESOPHAGUS		ACH-002263													
+KYSE50_OESOPHAGUS		ACH-002264													
+OACM51_OESOPHAGUS		ACH-001368													
+OACP4C_OESOPHAGUS		ACH-002292													
+SKGT4_OESOPHAGUS		ACH-001654													
+TE12_OESOPHAGUS		ACH-002311													
+CESS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002218													
+CTV1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002222													
+KMOE2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002258													
+NKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002290													
+QIMRWIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002299													
+BALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002211													
+KARPAS231_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002255													
+MHHPREB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002272													
+MN60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002275													
+ROS50_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001639													
+SUPB8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002308													
+U698M_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001680													
+BC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002214													
+CROAP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002220													
+CTB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002221													
+FARAGE_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001498													
+JSC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002253													
+KARPAS1106P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002254													
+RCK8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001638													
+SCC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001642													
+SLVL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002062													
+SUDHL16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002307													
+TK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002313													
+TUR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002314													
+VAL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001703													
+EB3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002236													
+JIYOYEP2003_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002252													
+P32ISH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002293													
+RAMOS2G64C10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002300													
+RPMI8866_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002302													
+MCCAR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002270													
+HC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002242													
+MLMA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002274													
+MOT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002339													
+HS445_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002245													
+KY821_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002262													
+ALLPO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002209													
+BE13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002216													
+GRST_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002238													
+HAL01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002241													
+KARPAS45_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002256													
+LC41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002267													
+P30OHK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002059													
+ATN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002058													
+H9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002240													
+WIL2NS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002316													
+WSUNHL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001709													
+YT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002317													
+ARH77_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002210													
+IM9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002247													
+CS1_BONE		ACH-002099													
+CHSA8926_BONE		ACH-002094													
+ES1_BONE		ACH-002103													
+ES3_BONE		ACH-002104													
+ES4_BONE		ACH-002105													
+ES5_BONE		ACH-002106													
+ES7_BONE		ACH-002108													
+ES8_BONE		ACH-002109													
+EW1_BONE		ACH-002110													
+EW11_BONE		ACH-002111													
+EW12_BONE		ACH-002112													
+EW13_BONE		ACH-002113													
+EW16_BONE		ACH-002114													
+EW18_BONE		ACH-002115													
+EW22_BONE		ACH-002116													
+EW24_BONE		ACH-002117													
+EW3_BONE		ACH-002118													
+EW7_BONE		ACH-002119													
+CAL72_BONE		ACH-001715													
+HUO3N1_BONE		ACH-002142													
+HUO9_BONE		ACH-001526													
+NOS1_BONE		ACH-002067													
+NY_BONE		ACH-002178													
+COLO824_BREAST		ACH-001820													
+MDAMB330_BREAST		ACH-001358													
+MFM223_BREAST		ACH-001819													
+MRKNU1_BREAST		ACH-002163													
+OCUBM_BREAST		ACH-002179													
+EGI1_BILIARY_TRACT		ACH-001494													
+ETK1_BILIARY_TRACT		ACH-002237													
+TGBC1TKB_BILIARY_TRACT		ACH-001861													
+TGBC24TKB_BILIARY_TRACT		ACH-002312													
+CAR1_LARGE_INTESTINE		ACH-002345													
+GP5D_LARGE_INTESTINE		ACH-001345													
+HCC2998_LARGE_INTESTINE		ACH-001081													
+NCIH630_LARGE_INTESTINE		ACH-002287													
+GT3TKB_STOMACH		ACH-002122													
+HSC39_STOMACH		ACH-002141													
+MKN28_STOMACH		ACH-002161													
+RF48_STOMACH		ACH-002301													
+SCH_STOMACH		ACH-002198													
+SKGT2_STOMACH		ACH-001653													
+SW13_ADRENAL_CORTEX		ACH-001401													
+BB65RCC_KIDNEY		ACH-002090													
+HA7RCC_KIDNEY		ACH-002139													
+LB1047RCC_KIDNEY		ACH-002150													
+LB2241RCC_KIDNEY		ACH-002151													
+LB996RCC_KIDNEY		ACH-002155													
+NCC010_KIDNEY		ACH-002167													
+NCC021_KIDNEY		ACH-002168													
+RCCAB_KIDNEY		ACH-002187													
+RCCER_KIDNEY		ACH-002188													
+RCCFG2_KIDNEY		ACH-002189													
+RCCJW_KIDNEY		ACH-002191													
+RCCMF_KIDNEY		ACH-002192													
+RXF393_KIDNEY		ACH-002195													
+SN12C_KIDNEY		ACH-002199													
+201T_LUNG		ACH-002089													
+EMCBAC1_LUNG		ACH-002101													
+EMCBAC2_LUNG		ACH-002102													
+LC2AD_LUNG		ACH-002157													
+NCIH1993_LUNG		ACH-001137													
+NCIH720_LUNG		ACH-002174													
+NCIH835_LUNG		ACH-002177													
+UMC11_LUNG		ACH-001417													
+NCIH1770_LUNG		ACH-001362													
+NCIH2135_LUNG		ACH-001363													
+CORL321_PLEURA		ACH-001490													
+CORL303_LUNG		ACH-002095													
+CORL32_LUNG		ACH-001489													
+ISTSL1_LUNG		ACH-002144													
+ISTSL2_LUNG		ACH-002145													
+LB647SCLC_LUNG		ACH-002154													
+LU134A_LUNG		ACH-002051													
+LU135_LUNG		ACH-001549													
+LU139_LUNG		ACH-002052													
+LU165_LUNG		ACH-002077													
+MS1_LUNG		ACH-001958													
+NCIH1417_LUNG		ACH-001591													
+NCIH1688_LUNG		ACH-002170													
+NCIH250_LUNG		ACH-002171													
+NCIH345_LUNG		ACH-001364													
+NCIH378_LUNG		ACH-002173													
+NCIH64_LUNG		ACH-001599													
+NCIH748_LUNG		ACH-002176													
+NCIH847_LUNG		ACH-001365													
+SBC1_LUNG		ACH-002196													
+H2369_PLEURA		ACH-002123													
+NCIH2373_PLEURA		ACH-002124													
+NCIH2461_PLEURA		ACH-002125													
+NCIH2591_PLEURA		ACH-002126													
+NCIH2595_PLEURA		ACH-002127													
+NCIH2722_PLEURA		ACH-002128													
+NCIH2731_PLEURA		ACH-002129													
+NCIH2795_PLEURA		ACH-002130													
+NCIH2803_PLEURA		ACH-002131													
+NCIH2804_PLEURA		ACH-002132													
+NCIH2810_PLEURA		ACH-002133													
+NCIH2818_PLEURA		ACH-002134													
+NCIH2869_PLEURA		ACH-002135													
+H290_PLEURA		ACH-002136													
+D247MG_CENTRAL_NERVOUS_SYSTEM		ACH-002224													
+D263MG_CENTRAL_NERVOUS_SYSTEM		ACH-002225													
+D336MG_CENTRAL_NERVOUS_SYSTEM		ACH-002226													
+D392MG_CENTRAL_NERVOUS_SYSTEM		ACH-002227													
+D502MG_CENTRAL_NERVOUS_SYSTEM		ACH-002229													
+D542MG_CENTRAL_NERVOUS_SYSTEM		ACH-002230													
+D566MG_CENTRAL_NERVOUS_SYSTEM		ACH-002231													
+KNS81FD_CENTRAL_NERVOUS_SYSTEM		ACH-002259													
+LNZTA3WT4_CENTRAL_NERVOUS_SYSTEM		ACH-002269													
+SKMG1_CENTRAL_NERVOUS_SYSTEM		ACH-002304													
+PFSK1_CENTRAL_NERVOUS_SYSTEM		ACH-001711													
+BE2M17_AUTONOMIC_GANGLIA		ACH-002217													
+CHP134_AUTONOMIC_GANGLIA		ACH-001338													
+GIMEN_AUTONOMIC_GANGLIA		ACH-001344													
+GOTO_AUTONOMIC_GANGLIA		ACH-001716													
+IMR5_AUTONOMIC_GANGLIA		ACH-002248													
+LAN6_AUTONOMIC_GANGLIA		ACH-001355													
+NBTU110_AUTONOMIC_GANGLIA		ACH-002277													
+NB10_AUTONOMIC_GANGLIA		ACH-002278													
+NB12_AUTONOMIC_GANGLIA		ACH-002279													
+NB13_AUTONOMIC_GANGLIA		ACH-002280													
+NB14_AUTONOMIC_GANGLIA		ACH-002281													
+NB17_AUTONOMIC_GANGLIA		ACH-002282													
+NB5_AUTONOMIC_GANGLIA		ACH-002283													
+NB6_AUTONOMIC_GANGLIA		ACH-002284													
+NB69_AUTONOMIC_GANGLIA		ACH-002083													
+NB7_AUTONOMIC_GANGLIA		ACH-002285													
+NH12_AUTONOMIC_GANGLIA		ACH-001603													
+TGW_AUTONOMIC_GANGLIA		ACH-001674													
+MZ1PC_PANCREAS		ACH-002164													
+PL18_PANCREAS		ACH-002185													
+PL4_PANCREAS		ACH-002186													
+CP50MELB_SKIN		ACH-002096													
+CP66MEL_SKIN		ACH-002097													
+GAK_SKIN		ACH-002120													
+GMEL_SKIN		ACH-002121													
+HMVII_SKIN		ACH-002040													
+ISTMEL1_SKIN		ACH-002143													
+LB2518MEL_SKIN		ACH-002152													
+LB373MELD_SKIN		ACH-002153													
+MMACSF_SKIN		ACH-002162													
+MZ2MEL_SKIN		ACH-002165													
+MZ7MEL_SKIN		ACH-002166													
+WM1552C_SKIN		ACH-002205													
+WM278_SKIN		ACH-002206													
+WM35_SKIN		ACH-002207													
+A388_SKIN		ACH-001442													
+A431_SKIN		ACH-001328													
+DJM1_SKIN		ACH-002100													
+SW684_SOFT_TISSUE		ACH-002309													
+RH1_SOFT_TISSUE		ACH-002194													
+MFHINO_SOFT_TISSUE		ACH-002271													
+SW872_SOFT_TISSUE		ACH-002310													
+SW982_SOFT_TISSUE		ACH-001274													
+VAESBJ_SOFT_TISSUE		ACH-001702													
+ASH3_THYROID		ACH-001443													
+IHH4_THYROID		ACH-001528													
+K5_THYROID		ACH-002148													
+RO82W1_THYROID		ACH-001384													
+DSH1_URINARY_TRACT		ACH-002235													
+LB831BLC_URINARY_TRACT		ACH-002266													
+C33A_CERVIX		ACH-001333													
+C4I_CERVIX		ACH-001334													
+CAL39_VULVA		ACH-002091													
+CASKI_CERVIX		ACH-001336													
+DOTC24510_CERVIX		ACH-001341													
+HT3_CERVIX		ACH-001525													
+ME180_CERVIX		ACH-001359													
+MS751_CERVIX		ACH-001360													
+SISO_CERVIX		ACH-001650													
+SKGIIIA_CERVIX		ACH-002020													
+SW756_CERVIX		ACH-001402													
+TCYIK_CERVIX		ACH-002201													
+HEC1_ENDOMETRIUM		ACH-001517													
+JHOS3_OVARY		ACH-002146													
+KGN_OVARY		ACH-002149													
+OV17R_OVARY		ACH-001373													
+OVCA420_OVARY		ACH-002181													
+OVMIU_OVARY		ACH-002183													
+PA1_OVARY		ACH-001374													
+PEO1_OVARY		ACH-001630													
+SW626_LARGE_INTESTINE		ACH-001399													
+UWB1289_OVARY		ACH-001418													
+BPH1_PROSTATE		ACH-001453													
+PWR1E_PROSTATE		ACH-001383													
+NCCIT_TESTIS		ACH-001578													
+NEC8_TESTIS		ACH-002288													
+NTERA2CLD1_TESTIS		ACH-002291													
+JAR_PLACENTA		ACH-001529													
+JEG3_PLACENTA		ACH-001530													
+SW954_CERVIX		ACH-001400													
+SW962_VULVA		ACH-002200													
+SKN_ENDOMETRIUM		ACH-001655													
+BC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002215													
+BONNA12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001452													
+ES6_BONE		ACH-002107													
+DIFI_LARGE_INTESTINE		ACH-002233													
+RCCJF_KIDNEY		ACH-002190													
+SW156_KIDNEY		ACH-001398													
+PC3JPC3_LUNG		ACH-002184													
+NCIH740_LUNG		ACH-002175													
+NCIH1304_LUNG		ACH-002169													
+D423MG_CENTRAL_NERVOUS_SYSTEM		ACH-002228													
+KPNYS_AUTONOMIC_GANGLIA		ACH-002261													
+MCIXC_AUTONOMIC_GANGLIA		ACH-002160													
+CP67MEL_SKIN		ACH-002098													
+HS633T_SOFT_TISSUE		ACH-002246													
+OMC1_CERVIX		ACH-002180													
+HEY_OVARY		ACH-002140													
+JHU029_UPPER_AERODIGESTIVE_TRACT		ACH-002251													
+SCC90_UPPER_AERODIGESTIVE_TRACT		ACH-002315													
+OCILY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001617													
+CHSA0011_BONE		ACH-002092													
+CHSA0108_BONE		ACH-002093													
+K2_SKIN		ACH-002147													
+STS0421_SOFT_TISSUE		ACH-002306													
+MYM12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002276													
+NK92MI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002289													
+YMB1E_BREAST		ACH-002208													
+RERFLCFM_LUNG		ACH-002193													
+D245MG_CENTRAL_NERVOUS_SYSTEM		ACH-002223													
+VMRCMELG_SKIN		ACH-001704													
+OVCA433_OVARY		ACH-002182													
+TMK1_STOMACH		ACH-002202													
+SC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002392													
+UCH2_BONE		ACH-002204													
+ML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002273													
+DG75_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002232													
+CCRFCEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-001738													
+HEMCSS_BONE		ACH-001519													
+NCIH187_LUNG		ACH-001136													
+SBC3_LUNG		ACH-002197													
+NCIH513_PLEURA		ACH-002341													
+KINGS1_CENTRAL_NERVOUS_SYSTEM		ACH-002257													
+LN405_CENTRAL_NERVOUS_SYSTEM		ACH-002268													
+NO10_CENTRAL_NERVOUS_SYSTEM		ACH-001605													
+NO11_CENTRAL_NERVOUS_SYSTEM		ACH-001606													
+451LU_SKIN		ACH-001002													
+M14_SKIN		ACH-002159													
+HTCC3_THYROID		ACH-001350													
+HELA_CERVIX		ACH-001086													
+NCIH128_LUNG		ACH-002286													
+OMM23_EYE		ACH-002318													
+OMM25_EYE															
+SUM52PE_BREAST		ACH-001396													
+MAVER1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002485													
+MEL202_EYE		ACH-001554													
+Z138_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002500													
+MEL285_EYE		ACH-002015													
+WS1_SKIN															
+T778_SOFT_TISSUE		ACH-001795													
+KMH2_THYROID		ACH-002397													
+MC1010_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE		ACH-002390													
+LIM1215_LARGE_INTESTINE		ACH-001546													
+MCC13_SKIN		ACH-001550													
+TASK1_CENTRAL_NERVOUS_SYSTEM		ACH-001670													
+UDSCC2_UPPER_AERODIGESTIVE_TRACT		ACH-002391													
+SARC9371_BONE		ACH-002396													
+MCC26_SKIN		ACH-001552													
+NBSUSSR_AUTONOMIC_GANGLIA		ACH-002340													
+GEO_LARGE_INTESTINE		ACH-002394													
+NCIH2330_LUNG															
+LP6_SOFT_TISSUE		ACH-001116													
+HS578BST_BREAST															
+LC1SQ_LUNG		ACH-002156													

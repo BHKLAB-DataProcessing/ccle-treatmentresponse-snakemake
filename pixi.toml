@@ -1,17 +1,15 @@
 [workspace]
 name = "ccle-treatmentresponse-snakemake"
-authors = [
-    "Jermiah Joseph <bhklab.jermiahjoseph@gmail.com>"
-]
+authors = ["Jermiah Joseph <bhklab.jermiahjoseph@gmail.com>"]
 description = "Snakemake pipeline to curate and prepare the CCLE drug resonse data only."
 license = "MIT"
 channels = ["conda-forge", "bioconda"]
-platforms = ["osx-arm64", "linux-64", "win-64", "osx-64"]
+platforms = ["osx-64"] # "osx-arm64", "linux-64", "win-64",
 
 [environments]
 quality = { features = ["quality"], solve-group = "default" }
 docs = { features = ["docs"], solve-group = "default" }
-snakemake = ["snakemake"]
+snakemake = ["snakemake", "R"]
 
 [activation]
 # convenient variables which can be used in scripts
@@ -34,7 +32,19 @@ pip = "*"
 damply = ">=0.10.0, <0.11"
 
 [tasks]
-example_script = {cmd="python $SCRIPTS/example_script.py"}
+example_script = { cmd = "python $SCRIPTS/example_script.py" }
+
+[feature.snakemake.dependencies]
+snakemake = "*"
+snakemake-storage-plugin-http = "*"
+
+[feature.R.dependencies]
+r-base = "*"
+r-essentials = "*"
+"r-data.table" = "*"
+r-devtools = ">=2.4.5,<3"
+bioconductor-pharmacogx = ">=3.10.0,<4"
+r-pak = ">=0.8.0.2,<0.9"
 
 ############################################## QUALITY ###############################################
 # Quality includes linting, type checking, and formatting
@@ -45,17 +55,14 @@ ruff = "*"
 ruff-check.cmd = ["ruff", "check"]
 ruff-check.inputs = ["config/ruff.toml", "workflow"]
 ruff-check.description = "Run ruff check"
-
 ruff-format.cmd = ["ruff", "format"]
 ruff-format.inputs = ["config/ruff.toml", "workflow"]
 ruff-format.depends-on = ["ruff-check"]
 ruff-format.description = "Run ruff format, run check first"
-
 qc.depends-on = ["ruff-format", "ruff-check"]
 qc.description = "Quality check: ruff check and format"
 
 ############################################## DOCS ################################################
-
 [feature.docs.dependencies]
 mkdocs = "*"
 mkdocs-include-markdown-plugin = ">=7.0.0,<8"
@@ -71,7 +78,3 @@ cmd = "mkdocs serve -f mkdocs.yaml"
 depends-on = ["doc-build"]
 inputs = ["docs"]
 description = "Serve documentation with mkdocs, runs doc-build first"
-
-[feature.snakemake.dependencies]
-snakemake = "*"
-snakemake-storage-plugin-http = "*"

@@ -1,16 +1,28 @@
 from damply import dirs as dmpdirs
 
+configfile: "config/pipeline.yaml"
+print(config)
+
 print(dmpdirs)
 
 storage:
     provider="http"
 
-rule all:
+rule preprocessMetadata:
     input:
-        storage.http("https://data.broadinstitute.org/ccle/Cell_lines_annotations_20181226.txt")
+        sampleAnnotation = storage.http(config["metadata"]["sampleAnnotation"]),
+        treatmentAnnotation = storage.http(config["metadata"]["treatmentAnnotation"]),
     output:
-        results = dmpdirs.METADATA / "results.txt"
-    shell:
-        """
-        cat {input} > {output}
-        """
+        sampleMetadata = dmpdirs.METADATA / "sampleMetadata.tsv",
+        treatmentMetadata = dmpdirs.METADATA / "treatmentMetadata.tsv",
+    script:
+        dmpdirs.SCRIPTS / "R" / "preprocessMetadata.R"
+
+
+rule preprocessTreatmentResponse:
+    input:
+        rawdata = storage.http(config["treatmentResponse"]["rawdata"]["url"]),
+    output:
+        preprocessedTreatmentResponse = dmpdirs.PROCDATA / "preprocessedTreatmentResponse.csv",
+    script:
+        dmpdirs.SCRIPTS / "R" / "preprocessTreatmentResponse.R"
