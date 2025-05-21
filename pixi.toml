@@ -4,12 +4,12 @@ authors = ["Jermiah Joseph <bhklab.jermiahjoseph@gmail.com>"]
 description = "Snakemake pipeline to curate and prepare the CCLE drug resonse data only."
 license = "MIT"
 channels = ["conda-forge", "bioconda"]
-platforms = ["osx-64"] # "osx-arm64", "linux-64", "win-64",
+platforms = ["linux-64"] # "osx-arm64", "linux-64", "win-64",
 
 [environments]
 quality = { features = ["quality"], solve-group = "default" }
 docs = { features = ["docs"], solve-group = "default" }
-snakemake = ["snakemake", "R"]
+pipeline = ["snakemake"]
 
 [activation]
 # convenient variables which can be used in scripts
@@ -32,19 +32,14 @@ pip = "*"
 damply = ">=0.10.0, <0.11"
 
 [tasks]
-example_script = { cmd = "python $SCRIPTS/example_script.py" }
+
 
 [feature.snakemake.dependencies]
 snakemake = "*"
 snakemake-storage-plugin-http = "*"
 
-[feature.R.dependencies]
-r-base = "*"
-r-essentials = "*"
-"r-data.table" = "*"
-r-devtools = ">=2.4.5,<3"
-bioconductor-pharmacogx = ">=3.10.0,<4"
-r-pak = ">=0.8.0.2,<0.9"
+[feature.snakemake.tasks]
+pipeline = { cmd = "snakemake --cores all", description = "Run snakemake pipeline" }
 
 ############################################## QUALITY ###############################################
 # Quality includes linting, type checking, and formatting

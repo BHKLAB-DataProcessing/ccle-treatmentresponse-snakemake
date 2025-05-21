@@ -1,12 +1,24 @@
 from damply import dirs as dmpdirs
 
 configfile: "config/pipeline.yaml"
-print(config)
-
-print(dmpdirs)
 
 storage:
     provider="http"
+
+rule buildTreatmentResponseExperiment:
+    input:
+        sampleMetadata = dmpdirs.METADATA / "sampleMetadata.tsv",
+        treatmentMetadata = dmpdirs.METADATA / "treatmentMetadata.tsv",
+        preprocessed_raw = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_raw.csv",
+        preprocessed_profiles = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_profiles.csv",
+    output:
+        tre = dmpdirs.RESULTS / "treatmentResponseExperiment.RDS",
+    log:
+        dmpdirs.LOGS / "buildTreatmentResponseExperiment.log",
+    threads:
+        40
+    script:
+        dmpdirs.SCRIPTS / "R" / "buildTreatmentResponseExperiment.R"
 
 rule preprocessMetadata:
     input:
@@ -23,6 +35,10 @@ rule preprocessTreatmentResponse:
     input:
         rawdata = storage.http(config["treatmentResponse"]["rawdata"]["url"]),
     output:
-        preprocessedTreatmentResponse = dmpdirs.PROCDATA / "preprocessedTreatmentResponse.csv",
+        preprocessed_raw = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_raw.csv",
+        preprocessed_profiles = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_profiles.csv",
+    log:
+        dmpdirs.LOGS / "preprocessTreatmentResponse.log",
     script:
         dmpdirs.SCRIPTS / "R" / "preprocessTreatmentResponse.R"
+

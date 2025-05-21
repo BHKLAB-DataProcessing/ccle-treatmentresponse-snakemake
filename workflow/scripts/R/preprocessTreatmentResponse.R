@@ -14,8 +14,42 @@ if (exists("snakemake")) {
         file.path("resources/", paste0(snakemake@rule, ".RData"))
     )
 }
-# load("resources/build_treatmentResponseExperiment.RData")
-# snakemake@source("../metadata/cleanCharacterStrings.R")
+cleanCharacterStrings <- function(name) {
+    # # make sure name is a string
+    name <- as.character(name)
+
+    # if there is a colon like in "Cisplatin: 1 mg/mL (1.5 mM); 5 mM in DMSO"
+    # remove everything after the colon
+    name <- gsub(":.*", "", name)
+
+    # remove ,  ;  -  +  *  $  %  #  ^  _  as well as any spaces
+    name <- gsub("[\\,\\;\\-\\+\\*\\$\\%\\#\\^\\_\\s]", "", name, perl = TRUE)
+
+    # remove hyphen
+    name <- gsub("-", "", name)
+
+    # # remove substring of round brackets and contents
+    name <- gsub("\\s*\\(.*\\)", "", name)
+
+    # # remove substring of square brackets and contents
+    name <- gsub("\\s*\\[.*\\]", "", name)
+
+    # # remove substring of curly brackets and contents
+    name <- gsub("\\s*\\{.*\\}", "", name)
+
+    # # convert entire string to uppercase
+    name <- toupper(name)
+
+    # dealing with unicode characters
+    name <- gsub(
+        "Unicode",
+        "",
+        iconv(name, "LATIN1", "ASCII", "Unicode"),
+        perl = TRUE
+    )
+
+    name
+}
 # 0.1 Startup
 # -----------
 # load data.table, suppressPackageStartupMessages unless there is an error
@@ -23,124 +57,152 @@ message("Loading libraries...")
 suppressPackageStartupMessages(library(data.table, quietly = TRUE))
 suppressPackageStartupMessages(library(dplyr, quietly = TRUE))
 
+
+# # TODO:: convert this to a container!
+# install.packages(
+#     "pak",
+#     repos = sprintf(
+#         "https://r-lib.github.io/p/pak/stable/%s/%s/%s",
+#         .Platform$pkgType,
+#         R.Version()$os,
+#         R.Version()$arch
+#     )
+# )
+
 # # Check if required packages are installed, otherwise install from bhklab repos
-# if (!require("CoreGx", quietly = TRUE)) {
-#     message("Installing CoreGx from GitHub...")
-#     devtools::install_github("bhklab/CoreGx", dependencies = TRUE)
-# }
 
-# if (!require("PharmacoGx", quietly = TRUE)) {
-#     message("Installing PharmacoGx from GitHub...")
-#     devtools::install_github("bhklab/PharmacoGx", dependencies = TRUE)
-# }
+# message("Installing CoreGx & PharmacoGx from GitHub...")
+# pak::pkg_install(
+#     c("bhklab/CoreGx", "bhklab/PharmacoGx"),
+#     dependencies = TRUE,
+#     upgrade = TRUE,
+#     ask = FALSE,
+# )
 
-# suppressPackageStartupMessages(library(CoreGx, quietly = TRUE))
-# suppressPackageStartupMessages(library(PharmacoGx, quietly = TRUE))
+suppressPackageStartupMessages(library(CoreGx, quietly = TRUE))
+suppressPackageStartupMessages(library(PharmacoGx, quietly = TRUE))
 
-# (rawdata <- data.table::fread(INPUT$rawdata, check.names = T))
+(rawdata <- data.table::fread(INPUT$rawdata, check.names = T))
+
+
+# calculate maximum number of doses used in an experiment
+# some experiments use less doses so this is necessary to keep dimensions consistent
+concentrations.no <- max(sapply(
+    rawdata$"Doses..uM.",
+    function(x) length(unlist(strsplit(x, split = ",")))
+))
+
+#' This function processes treatment response data by converting it into a data.table format.
+#'
+#' @param values A list containing the treatment response data.
+#' @return A data.table containing the processed treatment response data.
+#'
+#' @details The function takes a list of treatment response data and converts it into a data.table format.
+#' It extracts the necessary columns from the input data and performs additional processing steps to
+#' transform the data into the desired format. The function also handles missing values by filling them
+#' with NA. The resulting data.table contains columns for sample ID, treatment ID, dose, viability,
+#' EC50, IC50, Amax, and ActArea.
+fnExperiment <- function(values) {
+    # TODO:: dose1...dose8 should correspond exactly to
+    # ".0025,.0080,.025,.080,.25,.80,2.53,8"
+    # Fill each empty value with NA
+    dt <- data.table(
+        sampleid = values[["CCLE.Cell.Line.Name"]],
+        # CCLE.Cell.Line.Name = values[["CCLE.Cell.Line.Name"]],
+        # sampleid = values[["Primary.Cell.Line.Name"]],
+        treatmentid = values[["Compound"]],
+        dose = values[["Doses..uM."]],
+        viability = values[["Activity.Data..median."]],
+        EC50 = values[["EC50..uM."]],
+        IC50 = values[["IC50..uM."]],
+        Amax = values[["Amax"]],
+        ActArea = values[["ActArea"]]
+    )
+    # get the doses for a given experiment into the dt
+    dt[,
+        paste0("dose", 1:concentrations.no) := {
+            doses <- tstrsplit(`dose`, split = ",")
+            if (length(doses) < concentrations.no) {
+                doses <- c(doses, rep(NA, concentrations.no - length(doses)))
+            }
+            lapply(doses, function(x) as.numeric(x))
+        }
+    ]
+
+    # get the responses for a given experiment into the dt
+    dt[,
+        paste0("viability", 1:concentrations.no) := {
+            responses <- tstrsplit(`viability`, split = ",")
+            if (length(responses) < concentrations.no) {
+                responses <- c(
+                    responses,
+                    rep(NA, concentrations.no - length(responses))
+                )
+            }
+            lapply(responses, function(x) as.numeric(x) + 100)
+        }
+    ]
+
+    # return dt without the original doses and responses columns
+    dt[, c("dose", "viability") := NULL]
+
+    return(dt)
+}
+
+dt <- rbindlist(
+    BiocParallel::bplapply(
+        1:nrow(rawdata),
+        function(rowNum) fnExperiment(rawdata[rowNum, ]),
+        BPPARAM = BiocParallel::MulticoreParam(workers = THREADS)
+    )
+)
+
+# ######################################################
+# clean up the treatmentid and sampleid columns
+
+# # Extracting columns for the first data.table
+published_profiles <- dt[, .(sampleid, treatmentid, EC50, IC50, Amax, ActArea)]
+
+# # Extracting columns for the second data.table
+raw <- dt[, c(
+    "sampleid",
+    "treatmentid",
+    c(paste0("dose", 1:8), paste0("viability", 1:8))
+)]
+
+raw_long <- data.table::melt(
+    raw,
+    id.vars = c("sampleid", "treatmentid"),
+    measure.vars = patterns("^dose", "^viability"),
+    variable.name = "Dose",
+    value.name = c("dose", "viability")
+)
+
+raw_long <- raw_long[!is.na(dose), ][, Dose := NULL][]
+
+# Write the processed data frames to the output files
+data.table::fwrite(
+    raw_long,
+    file = OUTPUT$preprocessed_raw,
+    sep = ",",
+    quote = FALSE
+)
+message("Saved raw data to ", OUTPUT$preprocessed_raw)
+data.table::fwrite(
+    published_profiles,
+    file = OUTPUT$preprocessed_profiles,
+    sep = ",",
+    quote = FALSE
+)
+message("Saved profiles data to ", OUTPUT$preprocessed_profiles)
+
+# ######################################################
 # (sampleMetadata <- data.table::fread(INPUT$sampleMetadata, check.names = T))
 # (treatmentMetadata <- data.table::fread(
 #     INPUT$treatmentMetadata,
 #     check.names = T,
 #     encoding = "Latin-1"
 # ))
-
-# # calculate maximum number of doses used in an experiment
-# # some experiments use less doses so this is necessary to keep dimensions consistent
-# concentrations.no <- max(sapply(
-#     rawdata$"Doses..uM.",
-#     function(x) length(unlist(strsplit(x, split = ",")))
-# ))
-
-# #' This function processes treatment response data by converting it into a data.table format.
-# #'
-# #' @param values A list containing the treatment response data.
-# #' @return A data.table containing the processed treatment response data.
-# #'
-# #' @details The function takes a list of treatment response data and converts it into a data.table format.
-# #' It extracts the necessary columns from the input data and performs additional processing steps to
-# #' transform the data into the desired format. The function also handles missing values by filling them
-# #' with NA. The resulting data.table contains columns for sample ID, treatment ID, dose, viability,
-# #' EC50, IC50, Amax, and ActArea.
-# fnExperiment <- function(values)  {
-#     # TODO:: dose1...dose8 should correspond exactly to
-#     # ".0025,.0080,.025,.080,.25,.80,2.53,8"
-#     # Fill each empty value with NA
-#     dt <- data.table(
-#         sampleid = values[["CCLE.Cell.Line.Name"]],
-#         treatmentid = values[["Compound"]],
-#         dose = values[["Doses..uM."]],
-#         viability = values[["Activity.Data..median."]],
-#         EC50 = values[["EC50..uM."]],
-#         IC50 = values[["IC50..uM."]],
-#         Amax = values[["Amax"]],
-#         ActArea = values[["ActArea"]]
-#     )
-#     # get the doses for a given experiment into the dt
-#     dt[, paste0("dose", 1:concentrations.no) := {
-#         doses <- tstrsplit(`dose`, split = ",")
-#         if (length(doses) < concentrations.no) {
-#             doses <- c(doses, rep(NA, concentrations.no - length(doses)))
-#         }
-#         lapply(doses, function(x) as.numeric(x))
-#     }]
-
-#     # get the responses for a given experiment into the dt
-#     dt[, paste0("viability", 1:concentrations.no) := {
-#         responses <- tstrsplit(`viability`, split = ",")
-#         if (length(responses) < concentrations.no) {
-#             responses <- c(responses, rep(NA, concentrations.no - length(responses)))
-#         }
-#         lapply(responses, function(x) as.numeric(x) + 100)
-#     }]
-
-#     # return dt without the original doses and responses columns
-#     dt[, c("dose", "viability") := NULL]
-
-#     return(dt)
-# }
-
-# dt <- rbindlist(
-#     BiocParallel::bplapply(
-#         1:nrow(rawdata),
-#         function(rowNum) fnExperiment(rawdata[rowNum,]),
-#         BPPARAM = BiocParallel::MulticoreParam(workers = THREADS))
-#     )
-
-# ######################################################
-# # rename samples and treatments
-# dt[, CCLE.sampleid := sampleid]
-# dt[, CCLE.treatmentid := treatmentid]
-# setkey(sampleMetadata, "CCLE.sampleid")
-# dt[, sampleid := sampleMetadata[sampleid, cellosaurus.cellLineName]]
-
-# # This is unnecessary but it is done to force an error if it fails
-# y <- dt[, cleanCharacterStrings(CCLE.treatmentid)]
-# x <- treatmentMetadata[, cleanCharacterStrings(unique(CCLE.raw_treatmentid))]
-# matches <- treatmentMetadata[match(y, x), CCLE.treatmentid]
-
-# dt[, treatmentid := matches]
-
-# dt <- dt[!is.na(treatmentid) & !is.na(sampleid),]
-
-# # Extracting columns for the first data.table
-# published_profiles <- dt[, .(sampleid, treatmentid, EC50, IC50, Amax, ActArea)]
-
-# # Extracting columns for the second data.table
-# raw <- dt[, c("sampleid", "treatmentid", c(paste0("dose", 1:8), paste0("viability", 1:8)))]
-
-# raw <- data.table::melt(raw,
-#     id.vars = c("sampleid", "treatmentid"),
-#     measure.vars = patterns("^dose", "^viability"),
-#     variable.name = "Dose",
-#     value.name = c("dose", "viability")
-# )
-
-# raw <- raw[!is.na(dose),][, Dose := NULL][]
-# published_profiles[, treatmentid := cleanCharacterStrings(treatmentid)]
-
-# ######################################################
-
 # # CONSTRUCT THE TREDataMapper OBJECT
 # message("Constructing the treatment response experiment object...")
 # tdm <- CoreGx::TREDataMapper(rawdata=raw)
