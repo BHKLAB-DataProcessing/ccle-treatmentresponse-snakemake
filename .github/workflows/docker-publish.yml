@@ -1,9 +1,8 @@
 name: Build and Push Docker Image
 
 on:
-    push:
-        tags:
-            - '*'
+    release:
+        types: [published]
     workflow_dispatch:
 
 jobs:
@@ -29,9 +28,9 @@ jobs:
         - name: Extract metadata
           id: meta
           run: |
-            if [[ $GITHUB_REF == refs/tags/* ]]; then
-            # For tag-based triggers
-            echo "tag=${GITHUB_REF#refs/tags/}" >> "$GITHUB_OUTPUT"
+            if [[ "${{ github.event_name }}" == "release" ]]; then
+            # For release-based triggers
+            echo "tag=${{ github.event.release.tag_name }}" >> "$GITHUB_OUTPUT"
             echo "use_latest=true" >> "$GITHUB_OUTPUT"
             else
             # For manual dispatch
