@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.4.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.3.2...v0.4.0) (2025-05-21)
+
+
+### Features
+
+* add step to disable apparmor namespace restrictions for apptainer on Linux ([4e64168](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/4e641683c5fe1f130fa5e84ce246eb04312760c1))
+* trying to force this ([6f93732](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/6f937321b478b57c5a6559dbd770ac0428795216))
+
+
+### Bug Fixes
+
+* add eWaterCycle/setup-apptainer action to workflow ([ebb63a3](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/ebb63a391de1e81537be22d0beaa0e85af597e64))
+* simplify snakemake pipeline command by removing unnecessary apptainer arguments ([570a13a](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/570a13af04c57345d6d567b231a0c327092ce9b0))
+
 ## [0.3.2](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.3.1...v0.3.2) (2025-05-21)
 
 
