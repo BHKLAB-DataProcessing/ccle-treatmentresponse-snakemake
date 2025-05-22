@@ -18,6 +18,15 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake?style=flat-square)
 
+## 📦 Download
+
+You can download the latest processed treatmentResponseExperiment here:
+
+➡️ [Download RDS File](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/releases/latest/download/CCLE_treatmentResponseExperiment.RDS)
+
+> [!NOTE]
+> If the file does not exist yet, look through the [releases](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/releases) to find a release that contains the file.
+
 ## General Information
 
 This work splits up the CCLE pipeline to focus only on the drug response data.
