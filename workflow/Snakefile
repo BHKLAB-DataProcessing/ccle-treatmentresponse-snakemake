@@ -13,7 +13,7 @@ rule buildTreatmentResponseExperiment:
         preprocessed_raw = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_raw.csv",
         preprocessed_profiles = dmpdirs.PROCDATA / "preprocessed_TreatmentResponse_profiles.csv",
     output:
-        tre = dmpdirs.RESULTS / "treatmentResponseExperiment.RDS",
+        tre = dmpdirs.RESULTS / "CCLE_treatmentResponseExperiment.RDS",
     log:
         dmpdirs.LOGS / "buildTreatmentResponseExperiment.log",
     container:
