@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.6.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.5.0...v0.6.0) (2025-05-22)
+
+
+### Features
+
+* add run-pipeline action and integrate it into workflows ([d5762e4](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/d5762e4c4dfbab36b32d3636ba4ec8d43871c2bc))
+* everything needs the container ([e9e911a](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/e9e911a07a1dfeecfc907e44c332ae47b787d618))
+
 ## [0.5.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.4.0...v0.5.0) (2025-05-21)
 
 
