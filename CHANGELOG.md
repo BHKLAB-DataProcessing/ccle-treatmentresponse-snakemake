@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.7.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.6.0...v0.7.0) (2025-05-22)
+
+
+### Features
+
+* add download section for processed treatmentResponseExperiment in README ([ae9801c](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/ae9801c47810811eafddea7fbdaee8de95a138c3))
+* update asset file name ([11a86c4](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/commit/11a86c471024e433264c0a0c84d20763421611ca))
+
 ## [0.6.0](https://github.com/BHKLAB-DataProcessing/ccle-treatmentresponse-snakemake/compare/v0.5.0...v0.6.0) (2025-05-22)
 
 
